@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "name": "1INGA",
+      "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 2,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1INGB",
+      "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 2,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Lecture Hall 1",
+      "type": "Lecture",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "08:00",
+              "end": "9:30"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "08:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Lab 1",
+      "type": "TP",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "09:00",
+              "end": "13:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "09:00",
+              "end": "13:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
