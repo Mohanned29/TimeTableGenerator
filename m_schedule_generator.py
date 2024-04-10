@@ -1,33 +1,40 @@
-import itertools
-
 class ScheduleGenerator:
     def __init__(self, section, rooms):
         self.section = section
-        self.rooms = {room['name']: room for room in rooms}
+        self.rooms = rooms
         self.schedule = []
+        self.assigned_times = {}
 
-    def find_available_room(self, session_type):
-        for room_name, room_details in self.rooms.items():
-            if session_type.lower() in room_details['type'].lower():
-                return room_name
-        return None
+    def room_is_available(self, room_name, day, start_time):
+        if (room_name, day, start_time) in self.assigned_times:
+            return False
+        return True
+
+    def assign_session(self, moduleName, session_type, day, start_time, end_time, room):
+        if self.room_is_available(room['name'], day, start_time):
+            self.schedule.append([day, f"{start_time} - {end_time}", room['name'], moduleName, session_type])
+            self.assigned_times[(room['name'], day, start_time)] = True
+
+    def find_time_slot(self, room, session_type):
+        for availability in room['availability']:
+            for time in availability['time']:
+                if self.room_is_available(room['name'], availability['day'], time['start']):
+                    return availability['day'], time['start'], time['end']
+        return None, None, None
 
     def generate_schedule(self):
         for module_group in self.section['modules']:
             for module in module_group['modules']:
-                moduleName = module['moduleName']
-                self.assign_sessions(moduleName, 'Lecture', module['lectures'])
+                for _ in range(module['lectures']):
+                    day, start_time, end_time = self.find_time_slot(self.rooms[0], 'Lecture')
+                    if day:
+                        self.assign_session(module['moduleName'], 'Lecture', day, start_time, end_time, self.rooms[0])
                 if module.get('td', False):
-                    self.assign_sessions(moduleName, 'TD', 1)  #assuming 1 TD session per module psq 3yit
+                    day, start_time, end_time = self.find_time_slot(self.rooms[1], 'TD')
+                    if day:
+                        self.assign_session(module['moduleName'], 'TD', day, start_time, end_time, self.rooms[1])
                 if module.get('tp', False):
-                    self.assign_sessions(moduleName, 'TP', 1)  #assuming 1 TP session per module psq 3yit
+                    day, start_time, end_time = self.find_time_slot(self.rooms[1], 'TP')
+                    if day:
+                        self.assign_session(module['moduleName'], 'TP', day, start_time, end_time, self.rooms[1])
         return self.schedule
-
-    def assign_sessions(self, moduleName, session_type, count):
-        for _ in itertools.repeat(None, count):
-            room = self.find_available_room(session_type)
-            if room:
-                self.schedule.append({'module': moduleName, 'session_type': session_type, 'room': room})
-            else:
-                print(f"No available room found for {session_type} session of {moduleName}")
-
