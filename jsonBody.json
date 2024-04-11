@@ -10,19 +10,19 @@
           "modules": [
             {
               "moduleName": "ANALYSE",
-              "lectures": 2,
+              "lectures": 1,
               "td": true,
               "tp": false
             },
             {
               "moduleName": "ISE",
-              "lectures": 2,
+              "lectures": 1,
               "td": true,
               "tp": false
             },
             {
               "moduleName": "ALGO",
-              "lectures": 2,
+              "lectures": 1,
               "td": false,
               "tp": true
             }
@@ -40,19 +40,19 @@
           "modules": [
             {
               "moduleName": "ANALYSE",
-              "lectures": 2,
+              "lectures": 1,
               "td": true,
               "tp": false
             },
             {
               "moduleName": "ISE",
-              "lectures": 2,
+              "lectures": 1,
               "td": true,
               "tp": false
             },
             {
               "moduleName": "ALGO",
-              "lectures": 2,
+              "lectures": 1,
               "td": false,
               "tp": true
             }
@@ -63,7 +63,7 @@
   ],
   "rooms": [
     {
-      "name": "Lecture Hall 1",
+      "name": "AMPHI A",
       "type": "Lecture",
       "availability": [
         {

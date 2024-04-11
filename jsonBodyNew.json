@@ -1,0 +1,1215 @@
+{
+  "sections": [
+    {
+      "name": "2INGA",
+      "groups": [
+        "Group 1",
+        "Group 2",
+        "Group 3",
+        "Group 4"
+      ],
+      "schedule": [],
+      "capacity": 50,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2INGB",
+      "groups": [
+        "Group 1",
+        "Group 2",
+        "Group 3",
+        "Group 4"
+      ],
+      "schedule": [],
+      "capacity": 60,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1INGA",
+      "groups": [
+        "Group 1",
+        "Group 2",
+        "Group 3",
+        "Group 4"
+      ],
+      "schedule": [],
+      "capacity": 50,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1INGB",
+      "groups": [
+        "Group 1",
+        "Group 2",
+        "Group 3",
+        "Group 4"
+      ],
+      "schedule": [],
+      "capacity": 60,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1INGC",
+      "groups": [
+        "Group 1",
+        "Group 2",
+        "Group 3",
+        "Group 4"
+      ],
+      "schedule": [],
+      "capacity": 60,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1LMD1",
+      "groups": [
+        "Group 1",
+        "Group 2",
+        "Group 3",
+        "Group 4"
+      ],
+      "schedule": [],
+      "capacity": 50,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "ANALYSE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ISE",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "ALGO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Amphi A",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi B",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi C",
+      "availability": [
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi D",
+      "availability": [
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi E",
+      "availability": [
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi F",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi G",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi H",
+      "availability": [
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi I",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi J",
+      "availability": [
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "Lecture"
+    },
+    {
+      "name": "Salle 140",
+      "availability": [
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 142",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 144",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 146",
+      "availability": [
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 150",
+      "availability": [
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 152",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 154",
+      "availability": [
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 156",
+      "availability": [
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 210",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 212",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "TD"
+    },
+    {
+      "name": "Lab 120",
+      "availability": [
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "08:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 121",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 122",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 123",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 124",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 125",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 126",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 127",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "13:00",
+              "end": "14:30"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 128",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "time": [
+            {
+              "start": "09:40",
+              "end": "11:10"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 129",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": [
+            {
+              "start": "8:00",
+              "end": "09:30"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "time": [
+            {
+              "start": "11:20",
+              "end": "12:50"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "time": [
+            {
+              "start": "14:40",
+              "end": "16:10"
+            }
+          ]
+        }
+      ],
+      "type": "TP"
+    }
+  ]
+}

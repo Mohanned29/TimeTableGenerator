@@ -1,6 +1,8 @@
-from m_schedule_generator import ScheduleGenerator
+from schedule_manager import ScheduleManager
 
 def generate_schedules_for_all(data):
     rooms = data['rooms']
-    schedules = {section['name']: ScheduleGenerator(section, rooms).generate_schedule() for section in data['sections']}
+    sections = data['sections']
+    schedule_manager = ScheduleManager(rooms)
+    schedules = schedule_manager.generate_schedules_for_all(sections)
     return schedules
