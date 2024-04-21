@@ -14,19 +14,19 @@
         {
           "modules": [
             {
-              "moduleName": "ANALYSE",
+              "moduleName": "ANALYSE1",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ISE",
+              "moduleName": "ISE1",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ALGO",
+              "moduleName": "ALGO1",
               "lectures": 1,
               "td": false,
               "tp": true
@@ -49,19 +49,19 @@
         {
           "modules": [
             {
-              "moduleName": "ANALYSE",
+              "moduleName": "ANALYSE2",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ISE",
+              "moduleName": "ISE2",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ALGO",
+              "moduleName": "ALGO2",
               "lectures": 1,
               "td": false,
               "tp": true
@@ -84,19 +84,19 @@
         {
           "modules": [
             {
-              "moduleName": "ANALYSE",
+              "moduleName": "ANALYSE3",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ISE",
+              "moduleName": "ISE3",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ALGO",
+              "moduleName": "ALGO3",
               "lectures": 1,
               "td": false,
               "tp": true
@@ -119,21 +119,21 @@
         {
           "modules": [
             {
-              "moduleName": "ANALYSE",
+              "moduleName": "ANALYSE4",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ISE",
+              "moduleName": "ISE4",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ALGO",
+              "moduleName": "ALGO4",
               "lectures": 1,
-              "td": false,
+              "td": true,
               "tp": true
             }
           ]
@@ -154,21 +154,21 @@
         {
           "modules": [
             {
-              "moduleName": "ANALYSE",
+              "moduleName": "ANALYSE5",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ISE",
+              "moduleName": "ISE5",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ALGO",
+              "moduleName": "ALGO5",
               "lectures": 1,
-              "td": false,
+              "td": true,
               "tp": true
             }
           ]
@@ -189,26 +189,64 @@
         {
           "modules": [
             {
-              "moduleName": "ANALYSE",
+              "moduleName": "ANALYSE6",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ISE",
+              "moduleName": "ISE6",
               "lectures": 1,
               "td": true,
               "tp": false
             },
             {
-              "moduleName": "ALGO",
+              "moduleName": "ALGO6",
               "lectures": 1,
-              "td": false,
+              "td": true,
               "tp": true
             }
           ]
         }
       ]
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Dr. Alice Johnson",
+      "modules": [
+        {"name": "ALGO", "priority": 1},
+        {"name": "ANALYSE", "priority": 2},
+        {"name": "ISE", "priority": 3}
+      ],
+      "availability": ["Monday", "Sunday"]
+    },
+    {
+      "name": "Dr. Garici Tarek",
+      "modules": [
+        {"name": "ALGO", "priority": 3},
+        {"name": "ANALYSE", "priority": 1},
+        {"name": "ISE", "priority": 2}
+      ],
+      "availability": ["Monday", "Sunday"]
+    },
+    {
+      "name": "Prof. Bob Smith",
+      "modules": [
+        {"name": "ISE", "priority": 1},
+        {"name": "ALGO", "priority": 2},
+        {"name": "ANALYSE", "priority": 3}
+      ],
+      "availability": ["Tuesday", "Thursday"]
+    },
+    {
+      "name": "Dr. Carol Lee",
+      "modules": [
+        {"name": "ANALYSE", "priority": 1},
+        {"name": "ALGO", "priority": 2},
+        {"name": "ISE", "priority": 3}
+      ],
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday"]
     }
   ],
   "rooms": [
@@ -237,8 +275,8 @@
           "day": "Monday",
           "time": [
             {
-              "start": "8:00",
-              "end": "09:30"
+              "start": "9:40",
+              "end": "11:10"
             }
           ]
         }
@@ -303,8 +341,8 @@
           "day": "Thursday",
           "time": [
             {
-              "start": "8:00",
-              "end": "09:30"
+              "start": "9:40",
+              "end": "11:10"
             }
           ]
         }
@@ -567,8 +605,8 @@
           "day": "Saturday",
           "time": [
             {
-              "start": "8:00",
-              "end": "09:30"
+              "start": "9:40",
+              "end": "11:10"
             }
           ]
         }
