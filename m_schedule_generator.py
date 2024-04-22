@@ -11,10 +11,15 @@ class ScheduleGenerator:
         return any(teacher['name'] == teacher_name and day in teacher['availability'] for teacher in self.teachers)
 
     def find_suitable_teacher(self, module_name, day):
-        for teacher in sorted(self.teachers, key=lambda x: next((mod['priority'] for mod in x['modules'] if mod['name'] in module_name), float('inf'))):
-            if self.teacher_is_available(teacher['name'], day):
-                return teacher['name']
-        return None
+        qualified_teachers = [
+            teacher for teacher in self.teachers
+            if any(m['name'] in module_name for m in teacher['modules']) and day in teacher['availability']
+        ]
+        if not qualified_teachers:
+            return None
+        qualified_teachers.sort(key=lambda x: next((mod['priority'] for mod in x['modules'] if mod['name'] in module_name), float('inf')))
+        return qualified_teachers[0]['name'] if qualified_teachers else None
+
 
     def room_is_available(self, room_name, day, start_time, end_time):
         return all(not (start_time < t['end'] and end_time > t['start']) for t in self.assigned_times.get((room_name, day), []))
@@ -38,13 +43,17 @@ class ScheduleGenerator:
 
     def assign_session(self, moduleName, session_type, day, start_time, end_time, room):
         teacher = self.find_suitable_teacher(moduleName, day)
-        if teacher and self.room_is_available(room['name'], day, start_time, end_time):
+        if not teacher:
+            self.schedule.append([day, f"{start_time} - {end_time}", room['name'], moduleName, session_type, "No teacher available"])
+            return
+        if self.room_is_available(room['name'], day, start_time, end_time):
             self.schedule.append([day, f"{start_time} - {end_time}", room['name'], moduleName, session_type, teacher])
             if (room['name'], day) not in self.assigned_times:
                 self.assigned_times[(room['name'], day)] = []
             self.assigned_times[(room['name'], day)].append({'start': start_time, 'end': end_time})
         else:
             print(f"Failed to assign {moduleName} {session_type} on {day} from {start_time} to {end_time}")
+
 
     def schedule_lectures(self, module):
         for _ in range(module['lectures']):

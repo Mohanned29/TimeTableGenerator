@@ -295,6 +295,15 @@
         {"name": "ISE", "priority": 3}
       ],
       "availability": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+    },
+    {
+      "name": "Dr. Droul Nesrine Ilhem",
+      "modules": [
+        {"name": "Game Theory", "priority": 1},
+        {"name": "Risk Management", "priority": 2},
+        {"name": "Advanced Calculus", "priority": 3}
+      ],
+      "availability": ["Monday", "Tuesday"]
     }
   ],
   "rooms": [
