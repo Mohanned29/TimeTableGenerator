@@ -36,6 +36,54 @@
       ]
     },
     {
+      "name": "3ACAD",
+      "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
+      "schedule": [],
+      "capacity": 50,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Advanced Calculus",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Differential Equations",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3GTR",
+      "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
+      "schedule": [],
+      "capacity": 50,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Game Theory",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Risk Management",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "2INGB",
       "groups": [
         "Group 1",
