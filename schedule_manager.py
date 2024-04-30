@@ -1,15 +1,15 @@
 from m_schedule_generator import ScheduleGenerator
 
 class ScheduleManager:
-    def __init__(self, section, rooms, assigned_times, teachers):
-        self.section = section
+    def __init__(self, sections, rooms, teachers):
+        self.sections = sections
         self.rooms = rooms
-        self.assigned_times = assigned_times
         self.teachers = teachers
+        self.global_room_usage = {}
 
-    def generate_schedules_for_all(self, sections):
+    def generate_schedules_for_all(self):
         schedules = {}
-        for section in sections:
-            generator = ScheduleGenerator(section, self.rooms, self.assigned_times, self.teachers)
+        for section in self.sections:
+            generator = ScheduleGenerator(section, self.rooms, self.teachers, self.global_room_usage)
             schedules[section['name']] = generator.generate_schedule()
         return schedules

@@ -10,17 +10,13 @@ def generate_schedule():
         rooms = data['rooms']
         teachers = data['teachers']
         sections = data['sections']
-        assigned_times = {}
 
-        schedule_manager = ScheduleManager(None, rooms, assigned_times, teachers)
-        schedules = schedule_manager.generate_schedules_for_all(sections)
+        schedule_manager = ScheduleManager(sections, rooms, teachers)
+        schedules = schedule_manager.generate_schedules_for_all()
         return jsonify(schedules), 200
     except Exception as e:
-        app.logger.error(f"Error processing request: {str(e)}")
+        app.logger.error(f"error processing request: {str(e)}")
         return jsonify({"error": f"Internal server error: {str(e)}"}), 500
-
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
