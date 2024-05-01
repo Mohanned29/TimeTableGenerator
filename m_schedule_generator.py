@@ -34,7 +34,7 @@ class ScheduleGenerator:
 
     def find_time_slot(self, session_type):
         suitable_rooms = [room for room in self.rooms if room['type'] == session_type]
-        # Shuffle rooms to start potentially from a different index each time to distribute room usage evenly
+        #shuffle rooms to start potentially from a different index each time to distribute room usage evenly
         random.shuffle(suitable_rooms)
         for room in suitable_rooms:
             for availability in room['availability']:
@@ -45,8 +45,8 @@ class ScheduleGenerator:
                     if self.room_is_available(room['name'], day, start_time, end_time):
                         # Mark this room as used in this time slot globally
                         if (room['name'], day, start_time, end_time) not in self.global_room_usage:
-                            self.global_room_usage[(room['name'], day, start_time, end_time)] = True
-                            return day, start_time, end_time, room
+                            self.global_room_usage.setdefault((room['name'], day), []).append({'start': start_time, 'end': end_time})
+                        return day, start_time, end_time, room
         return None, None, None, None
 
 
@@ -96,12 +96,8 @@ class ScheduleGenerator:
             for module in module_group['modules']:
                 self.schedule_lectures(module)
                 if module.get('td', False) and module.get('tp', False):
-                    for group_number, _ in enumerate(self.section['groups'], 1):
-                        day_td, start_time_td, end_time_td, room_td = self.find_time_slot('TD')
-                        day_tp, start_time_tp, end_time_tp, room_tp = self.find_time_slot('TP')
-                        if day_td and day_tp:
-                            self.assign_session(module['moduleName'], 'TD', day_td, start_time_td, end_time_td, room_td, group_number)
-                            self.assign_session(module['moduleName'], 'TP', day_tp, start_time_tp, end_time_tp, room_tp, group_number)
+                    self.schedule_tds(module)
+                    self.schedule_tps(module)
                 else:
                     self.schedule_tds(module)
                     self.schedule_tps(module)
