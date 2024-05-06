@@ -464,7 +464,7 @@
     },
     {
       "name": "Salle 150",
-      "availability": ["Wednesday","Sunday","Sunday","Monday"],
+      "availability": ["Wednesday","Sunday","Saturday"],
       "type": "TD"
     },
     {
