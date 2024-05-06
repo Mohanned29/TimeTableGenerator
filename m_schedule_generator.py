@@ -64,7 +64,7 @@ class ScheduleGenerator:
             self.assigned_group_sessions[(module['moduleName'], session_type, group)] = True
 
     def generate_schedule(self):
-        days_of_week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Sunday", "Saturday"]
+        days_of_week = ["lundi", "mardi", "mercredi", "jeudi", "dimanche", "samedi"]
         random.shuffle(days_of_week)
 
         for module_group in self.section['modules']:
