@@ -1,372 +1,472 @@
 {
 	"1INGA": [
 		{
-			"day": "Saturday",
+			"day": "mardi",
 			"group": null,
 			"moduleName": "ANALYSE",
 			"room": "Amphi E",
 			"session_type": "Lecture",
 			"slot": 2,
-			"teacher": "Dr. Garici Tarek",
+			"teacher": "Hakim",
 			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Monday",
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "ANALYSE",
+			"room": "Salle 166",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Carol Lee",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
 			"group": "Group 2",
+			"moduleName": "ANALYSE",
+			"room": "Salle 156",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Hakim",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
 			"moduleName": "ANALYSE",
 			"room": "Salle 178",
 			"session_type": "TD",
 			"slot": 4,
-			"teacher": "Dr. Garici Tarek",
+			"teacher": "Hakim",
 			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Monday",
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "ISE",
+			"room": "Amphi K",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "ISE",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 2",
+			"moduleName": "ISE",
+			"room": "Salle 172",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
 			"group": "Group 3",
-			"moduleName": "ANALYSE",
-			"room": "Salle 176",
+			"moduleName": "ISE",
+			"room": "Salle 166",
 			"session_type": "TD",
 			"slot": 5,
-			"teacher": "Dr. Garici Tarek",
+			"teacher": "Prof. Bob Smith",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Tuesday",
-			"group": null,
+			"day": "lundi",
+			"group": "Group 4",
 			"moduleName": "ISE",
-			"room": "Amphi A",
-			"session_type": "Lecture",
-			"slot": 3,
-			"teacher": "Prof. Bob Smith",
-			"time": "11:20 - 12:50"
+			"room": "Salle 170",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Dr. Alice Johnson",
+			"time": "8:00 - 9:30"
 		},
 		{
-			"day": "Wednesday",
+			"day": "samedi",
 			"group": null,
 			"moduleName": "ALGO",
 			"room": "Amphi E",
 			"session_type": "Lecture",
-			"slot": 3,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Wednesday",
-			"group": "Group 1",
-			"moduleName": "ALGO",
-			"room": "Lab 124",
-			"session_type": "TP",
 			"slot": 4,
-			"teacher": "Dr. Laoudi Farid",
+			"teacher": "Dr. Alice Johnson",
 			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Sunday",
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "ALGO",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "jeudi",
 			"group": "Group 2",
-			"moduleName": "ALGO",
-			"room": "Lab 128",
-			"session_type": "TP",
-			"slot": 3,
-			"teacher": "Dr. Alice Johnson",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 3",
-			"moduleName": "ALGO",
-			"room": "Lab 123",
-			"session_type": "TP",
-			"slot": 2,
-			"teacher": "Dr. Alice Johnson",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Thursday",
-			"group": "Group 4",
 			"moduleName": "ALGO",
 			"room": "Lab 122",
 			"session_type": "TP",
-			"slot": 2,
+			"slot": 3,
 			"teacher": "Prof. Bob Smith",
-			"time": "9:40 - 11:10"
+			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Monday",
+			"day": "mercredi",
+			"group": "Group 3",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 4",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Alice Johnson",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "LOGIQUE",
+			"room": "Amphi G",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "Dr. Garici Tarek",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "dimanche",
 			"group": "Group 1",
 			"moduleName": "LOGIQUE",
 			"room": "Salle 170",
 			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
-			"time": "8:00 - 9:30"
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Wednesday",
+			"day": "mercredi",
 			"group": "Group 2",
-			"moduleName": "LOGIQUE",
-			"room": "Salle 158",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Saturday",
-			"group": "Group 3",
 			"moduleName": "LOGIQUE",
 			"room": "Salle 154",
 			"session_type": "TD",
-			"slot": 2,
+			"slot": 1,
 			"teacher": "Dr. Garici Tarek",
-			"time": "9:40 - 11:10"
+			"time": "8:00 - 9:30"
 		},
 		{
-			"day": "Monday",
+			"day": "dimanche",
+			"group": "Group 3",
+			"moduleName": "LOGIQUE",
+			"room": "Salle 174",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
 			"group": "Group 4",
 			"moduleName": "LOGIQUE",
 			"room": "Salle 172",
 			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Garici Tarek",
-			"time": "9:40 - 11:10"
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
 		}
 	],
 	"1INGC": [
 		{
-			"day": "Monday",
+			"day": "dimanche",
 			"group": null,
 			"moduleName": "ANALYSE",
-			"room": "Amphi F",
+			"room": "Amphi J",
 			"session_type": "Lecture",
-			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Saturday",
-			"group": "Group 1",
-			"moduleName": "ANALYSE",
-			"room": "Salle 182",
-			"session_type": "TD",
 			"slot": 5,
-			"teacher": "Dr. Garici Tarek",
+			"teacher": "Hakim",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Tuesday",
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "ANALYSE",
+			"room": "Salle 158",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Hakim",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
 			"group": "Group 2",
 			"moduleName": "ANALYSE",
 			"room": "Salle 172",
 			"session_type": "TD",
 			"slot": 5,
+			"teacher": "Hakim",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "ANALYSE",
+			"room": "Salle 160",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Hakim",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 4",
+			"moduleName": "ANALYSE",
+			"room": "Salle 168",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Hakim",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": null,
+			"moduleName": "ISE",
+			"room": "Amphi C",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 1",
+			"moduleName": "ISE",
+			"room": "Salle 150",
+			"session_type": "TD",
+			"slot": 5,
 			"teacher": "Dr. Alice Johnson",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Sunday",
-			"group": "Group 3",
-			"moduleName": "ANALYSE",
-			"room": "Salle 166",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Alice Johnson",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 4",
-			"moduleName": "ANALYSE",
+			"day": "mercredi",
+			"group": "Group 2",
+			"moduleName": "ISE",
 			"room": "Salle 180",
 			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Garici Tarek",
-			"time": "9:40 - 11:10"
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Sunday",
-			"group": null,
+			"day": "dimanche",
+			"group": "Group 3",
 			"moduleName": "ISE",
-			"room": "Amphi H",
-			"session_type": "Lecture",
+			"room": "Salle 164",
+			"session_type": "TD",
 			"slot": 3,
-			"teacher": "Dr. Alice Johnson",
+			"teacher": "Prof. Bob Smith",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Tuesday",
-			"group": "Group 1",
+			"day": "mardi",
+			"group": "Group 4",
 			"moduleName": "ISE",
-			"room": "Salle 168",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Prof. Bob Smith",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 3",
-			"moduleName": "ISE",
-			"room": "Salle 152",
+			"room": "Salle 166",
 			"session_type": "TD",
 			"slot": 2,
-			"teacher": "Dr. Alice Johnson",
+			"teacher": "Prof. Bob Smith",
 			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Tuesday",
+			"day": "dimanche",
 			"group": null,
 			"moduleName": "ALGO",
-			"room": "Amphi I",
+			"room": "Amphi K",
 			"session_type": "Lecture",
-			"slot": 3,
+			"slot": 4,
 			"teacher": "Dr. Alice Johnson",
-			"time": "11:20 - 12:50"
+			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Sunday",
-			"group": "Group 3",
-			"moduleName": "ALGO",
-			"room": "Lab 124",
-			"session_type": "TP",
-			"slot": 2,
-			"teacher": "Dr. Alice Johnson",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Thursday",
-			"group": "Group 4",
-			"moduleName": "ALGO",
-			"room": "Lab 122",
-			"session_type": "TP",
-			"slot": 1,
-			"teacher": "Prof. Bob Smith",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Saturday",
-			"group": null,
-			"moduleName": "LOGIQUE",
-			"room": "Amphi F",
-			"session_type": "Lecture",
-			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 3",
-			"moduleName": "LOGIQUE",
-			"room": "Salle 178",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Wednesday",
-			"group": "Group 4",
-			"moduleName": "LOGIQUE",
-			"room": "Salle 178",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Thursday",
+			"day": "jeudi",
 			"group": "Group 1",
 			"moduleName": "ALGO",
 			"room": "Lab 122",
 			"session_type": "TP",
-			"slot": 3,
+			"slot": 5,
 			"teacher": "Prof. Bob Smith",
-			"time": "11:20 - 12:50"
+			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Sunday",
+			"day": "lundi",
 			"group": "Group 2",
 			"moduleName": "ALGO",
-			"room": "Lab 127",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "Dr. Alice Johnson",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 3",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 4",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
 			"session_type": "TP",
 			"slot": 3,
 			"teacher": "Dr. Alice Johnson",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Tuesday",
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "LOGIQUE",
+			"room": "Amphi D",
+			"session_type": "Lecture",
+			"slot": 3,
+			"teacher": "Dr. Garici Tarek",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 1",
+			"moduleName": "LOGIQUE",
+			"room": "Salle 184",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Garici Tarek",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "LOGIQUE",
+			"room": "Salle 180",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Garici Tarek",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 3",
+			"moduleName": "LOGIQUE",
+			"room": "Salle 166",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "LOGIQUE",
+			"room": "Salle 154",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Dr. Garici Tarek",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mardi",
 			"group": null,
 			"moduleName": "ALGEBRE",
 			"room": "Amphi J",
 			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "Dr. Carol Lee",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "ALGEBRE",
+			"room": "Salle 182",
+			"session_type": "TD",
 			"slot": 5,
 			"teacher": "Dr. Carol Lee",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Monday",
-			"group": "Group 1",
+			"day": "dimanche",
+			"group": "Group 4",
 			"moduleName": "ALGEBRE",
-			"room": "Salle 184",
+			"room": "Salle 172",
 			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Carol Lee",
-			"time": "14:40 - 16:10"
+			"slot": 2,
+			"teacher": "Hakim",
+			"time": "9:40 - 11:10"
 		}
 	],
 	"1LMD1": [
 		{
-			"day": "Monday",
+			"day": "samedi",
 			"group": null,
 			"moduleName": "ANALYSE",
-			"room": "Amphi J",
+			"room": "Amphi E",
 			"session_type": "Lecture",
-			"slot": 5,
-			"teacher": "Dr. Garici Tarek",
-			"time": "14:40 - 16:10"
+			"slot": 2,
+			"teacher": "Hakim",
+			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Wednesday",
-			"group": "Group 3",
+			"day": "samedi",
+			"group": "Group 2",
 			"moduleName": "ANALYSE",
-			"room": "Salle 158",
+			"room": "Salle 166",
 			"session_type": "TD",
 			"slot": 3,
-			"teacher": "Dr. Garici Tarek",
+			"teacher": "Hakim",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Monday",
+			"day": "dimanche",
 			"group": "Group 4",
 			"moduleName": "ANALYSE",
-			"room": "Salle 180",
+			"room": "Salle 184",
 			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Hakim",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "samedi",
+			"group": null,
+			"moduleName": "ALGEBRE",
+			"room": "Amphi C",
+			"session_type": "Lecture",
 			"slot": 1,
-			"teacher": "Dr. Garici Tarek",
+			"teacher": "Hakim",
 			"time": "8:00 - 9:30"
 		},
 		{
-			"day": "Wednesday",
-			"group": null,
-			"moduleName": "ALGEBRE",
-			"room": "Amphi E",
-			"session_type": "Lecture",
-			"slot": 5,
-			"teacher": "Dr. Carol Lee",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Wednesday",
-			"group": "Group 2",
-			"moduleName": "ALGEBRE",
-			"room": "Salle 176",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Carol Lee",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 3",
+			"day": "mardi",
+			"group": "Group 1",
 			"moduleName": "ALGEBRE",
 			"room": "Salle 166",
 			"session_type": "TD",
@@ -375,341 +475,271 @@
 			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Tuesday",
-			"group": "Group 4",
-			"moduleName": "ALGEBRE",
-			"room": "Salle 154",
-			"session_type": "TD",
-			"slot": 4,
-			"teacher": "Dr. Carol Lee",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 1",
-			"moduleName": "ISE",
-			"room": "Salle 154",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Alice Johnson",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Monday",
+			"day": "lundi",
 			"group": "Group 2",
-			"moduleName": "ISE",
-			"room": "Salle 158",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Alice Johnson",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 4",
-			"moduleName": "ISE",
-			"room": "Salle 152",
+			"moduleName": "ALGEBRE",
+			"room": "Salle 160",
 			"session_type": "TD",
 			"slot": 2,
-			"teacher": "Dr. Alice Johnson",
+			"teacher": "Dr. Carol Lee",
 			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Wednesday",
-			"group": null,
-			"moduleName": "ALGO",
-			"room": "Amphi E",
-			"session_type": "Lecture",
-			"slot": 4,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "13:00 - 14:30"
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "ALGEBRE",
+			"room": "Salle 176",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Dr. Carol Lee",
+			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Sunday",
-			"group": "Group 1",
-			"moduleName": "ALGO",
-			"room": "Salle 158",
+			"day": "dimanche",
+			"group": "Group 4",
+			"moduleName": "ALGEBRE",
+			"room": "Salle 178",
 			"session_type": "TD",
 			"slot": 1,
-			"teacher": "Dr. Alice Johnson",
+			"teacher": "Hakim",
 			"time": "8:00 - 9:30"
 		},
 		{
-			"day": "Thursday",
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "ISE",
+			"room": "Amphi K",
+			"session_type": "Lecture",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
 			"group": "Group 1",
+			"moduleName": "ISE",
+			"room": "Salle 164",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 2",
+			"moduleName": "ISE",
+			"room": "Salle 152",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Prof. Bob Smith",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "ISE",
+			"room": "Salle 182",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Prof. Bob Smith",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "ISE",
+			"room": "Salle 174",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "jeudi",
+			"group": null,
 			"moduleName": "ALGO",
-			"room": "Lab 122",
-			"session_type": "TP",
+			"room": "Amphi F",
+			"session_type": "Lecture",
 			"slot": 2,
 			"teacher": "Prof. Bob Smith",
 			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Sunday",
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "ALGO",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Alice Johnson",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "samedi",
 			"group": "Group 2",
+			"moduleName": "ALGO",
+			"room": "Salle 156",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Alice Johnson",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Alice Johnson",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 3",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "ALGO",
+			"room": "Salle 184",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Alice Johnson",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 4",
 			"moduleName": "ALGO",
 			"room": "Lab 127",
 			"session_type": "TP",
 			"slot": 2,
 			"teacher": "Dr. Alice Johnson",
 			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 3",
-			"moduleName": "ALGO",
-			"room": "Salle 160",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Alice Johnson",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 3",
-			"moduleName": "ALGO",
-			"room": "Lab 128",
-			"session_type": "TP",
-			"slot": 4,
-			"teacher": "Dr. Alice Johnson",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 4",
-			"moduleName": "ALGO",
-			"room": "Salle 172",
-			"session_type": "TD",
-			"slot": 1,
-			"teacher": "Dr. Alice Johnson",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 4",
-			"moduleName": "ALGO",
-			"room": "Lab 124",
-			"session_type": "TP",
-			"slot": 1,
-			"teacher": "Dr. Alice Johnson",
-			"time": "8:00 - 9:30"
 		}
 	],
 	"2INGA": [
 		{
-			"day": "Monday",
+			"day": "jeudi",
 			"group": null,
 			"moduleName": "ANALYSE",
-			"room": "Amphi J",
+			"room": "Amphi F",
 			"session_type": "Lecture",
-			"slot": 5,
-			"teacher": "Dr. Garici Tarek",
-			"time": "14:40 - 16:10"
+			"slot": 4,
+			"teacher": "Dr. Carol Lee",
+			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Monday",
-			"group": "Group 1",
-			"moduleName": "ANALYSE",
-			"room": "Salle 184",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Garici Tarek",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Monday",
+			"day": "dimanche",
 			"group": "Group 2",
 			"moduleName": "ANALYSE",
-			"room": "Salle 174",
+			"room": "Salle 178",
 			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Garici Tarek",
-			"time": "9:40 - 11:10"
+			"slot": 3,
+			"teacher": "Hakim",
+			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Tuesday",
-			"group": "Group 3",
-			"moduleName": "ANALYSE",
-			"room": "Salle 182",
-			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Alice Johnson",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Wednesday",
+			"day": "samedi",
 			"group": "Group 4",
 			"moduleName": "ANALYSE",
-			"room": "Salle 176",
+			"room": "Salle 168",
 			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Garici Tarek",
-			"time": "9:40 - 11:10"
+			"slot": 1,
+			"teacher": "Hakim",
+			"time": "8:00 - 9:30"
 		},
 		{
-			"day": "Tuesday",
+			"day": "jeudi",
+			"group": null,
+			"moduleName": "SFSD",
+			"room": "Amphi A",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
 			"group": "Group 1",
 			"moduleName": "SFSD",
-			"room": "Salle 166",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 2",
-			"moduleName": "SFSD",
-			"room": "Salle 182",
-			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Wednesday",
-			"group": "Group 4",
-			"moduleName": "SFSD",
-			"room": "Salle 158",
+			"room": "Salle 154",
 			"session_type": "TD",
 			"slot": 3,
 			"teacher": "Dr. Laoudi Farid",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Sunday",
+			"day": "dimanche",
+			"group": "Group 2",
+			"moduleName": "SFSD",
+			"room": "Salle 176",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "SFSD",
+			"room": "Salle 182",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 4",
+			"moduleName": "SFSD",
+			"room": "Salle 168",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": null,
+			"moduleName": "COMPLEXITE",
+			"room": "Amphi I",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mardi",
 			"group": "Group 1",
+			"moduleName": "COMPLEXITE",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 2",
 			"moduleName": "COMPLEXITE",
 			"room": "Lab 127",
 			"session_type": "TP",
-			"slot": 3,
+			"slot": 4,
 			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "11:20 - 12:50"
+			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Sunday",
+			"day": "dimanche",
 			"group": "Group 3",
 			"moduleName": "COMPLEXITE",
-			"room": "Lab 123",
-			"session_type": "TP",
-			"slot": 4,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 4",
-			"moduleName": "COMPLEXITE",
-			"room": "Lab 122",
-			"session_type": "TP",
-			"slot": 5,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": null,
-			"moduleName": "ARCHI",
-			"room": "Amphi I",
-			"session_type": "Lecture",
-			"slot": 3,
-			"teacher": "Prof. Bob Smith",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Saturday",
-			"group": "Group 1",
-			"moduleName": "ARCHI",
-			"room": "Salle 176",
-			"session_type": "TD",
-			"slot": 4,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 2",
-			"moduleName": "ARCHI",
-			"room": "Salle 170",
-			"session_type": "TD",
-			"slot": 3,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 3",
-			"moduleName": "ARCHI",
-			"room": "Salle 168",
-			"session_type": "TD",
-			"slot": 3,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 4",
-			"moduleName": "ARCHI",
-			"room": "Salle 174",
-			"session_type": "TD",
-			"slot": 4,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Sunday",
-			"group": null,
-			"moduleName": "THG",
-			"room": "Amphi D",
-			"session_type": "Lecture",
-			"slot": 5,
-			"teacher": "Dr. Smali Cherif",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 1",
-			"moduleName": "THG",
-			"room": "Salle 182",
-			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Smali Cherif",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 4",
-			"moduleName": "THG",
-			"room": "Salle 152",
-			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Dr. Smali Cherif",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": null,
-			"moduleName": "RESEAUX",
-			"room": "Amphi A",
-			"session_type": "Lecture",
-			"slot": 3,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Wednesday",
-			"group": "Group 1",
-			"moduleName": "RESEAUX",
-			"room": "Salle 150",
-			"session_type": "TD",
-			"slot": 3,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "11:20 - 12:50"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 1",
-			"moduleName": "RESEAUX",
 			"room": "Lab 121",
 			"session_type": "TP",
 			"slot": 2,
@@ -717,252 +747,934 @@
 			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Tuesday",
-			"group": "Group 2",
-			"moduleName": "RESEAUX",
-			"room": "Salle 156",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Saturday",
-			"group": "Group 2",
-			"moduleName": "RESEAUX",
-			"room": "Lab 128",
-			"session_type": "TP",
-			"slot": 5,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Saturday",
+			"day": "mercredi",
 			"group": "Group 4",
-			"moduleName": "RESEAUX",
-			"room": "Salle 184",
-			"session_type": "TD",
+			"moduleName": "COMPLEXITE",
+			"room": "Lab 127",
+			"session_type": "TP",
 			"slot": 3,
-			"teacher": "Dr. Mezghenna Mohanned",
+			"teacher": "No teacher available",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Tuesday",
-			"group": "Group 4",
-			"moduleName": "RESEAUX",
-			"room": "Lab 123",
-			"session_type": "TP",
-			"slot": 1,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Tuesday",
-			"group": null,
-			"moduleName": "POO",
-			"room": "Amphi I",
-			"session_type": "Lecture",
-			"slot": 1,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Sunday",
-			"group": "Group 4",
-			"moduleName": "POO",
-			"room": "Lab 123",
-			"session_type": "TP",
-			"slot": 2,
-			"teacher": "Dr. Mezghenna Mohanned",
-			"time": "9:40 - 11:10"
-		}
-	],
-	"2ISILB": [
-		{
-			"day": "Thursday",
+			"day": "jeudi",
 			"group": null,
 			"moduleName": "ARCHI",
-			"room": "Amphi I",
+			"room": "Amphi H",
 			"session_type": "Lecture",
-			"slot": 5,
+			"slot": 4,
 			"teacher": "Prof. Bob Smith",
-			"time": "14:40 - 16:10"
+			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Saturday",
+			"day": "mercredi",
 			"group": "Group 1",
 			"moduleName": "ARCHI",
 			"room": "Salle 180",
 			"session_type": "TD",
 			"slot": 5,
-			"teacher": "Dr. Droul Nesrine Ilhem",
+			"teacher": "No teacher available",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Sunday",
-			"group": "Group 1",
+			"day": "lundi",
+			"group": "Group 4",
 			"moduleName": "ARCHI",
-			"room": "Lab 125",
-			"session_type": "TP",
-			"slot": 2,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 2",
-			"moduleName": "ARCHI",
-			"room": "Salle 164",
+			"room": "Salle 162",
 			"session_type": "TD",
 			"slot": 4,
 			"teacher": "Dr. Droul Nesrine Ilhem",
 			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Tuesday",
-			"group": "Group 3",
-			"moduleName": "ARCHI",
-			"room": "Salle 184",
-			"session_type": "TD",
-			"slot": 2,
-			"teacher": "Prof. Bob Smith",
-			"time": "9:40 - 11:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 3",
-			"moduleName": "ARCHI",
-			"room": "Lab 126",
-			"session_type": "TP",
-			"slot": 1,
-			"teacher": "Prof. Bob Smith",
-			"time": "8:00 - 9:30"
-		},
-		{
-			"day": "Saturday",
-			"group": "Group 4",
-			"moduleName": "ARCHI",
-			"room": "Salle 176",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Wednesday",
+			"day": "lundi",
 			"group": null,
-			"moduleName": "ALGO",
-			"room": "Amphi D",
-			"session_type": "Lecture",
-			"slot": 4,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Thursday",
-			"group": "Group 1",
-			"moduleName": "ALGO",
-			"room": "Lab 122",
-			"session_type": "TP",
-			"slot": 5,
-			"teacher": "Prof. Bob Smith",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Tuesday",
-			"group": "Group 2",
-			"moduleName": "ALGO",
-			"room": "Lab 128",
-			"session_type": "TP",
-			"slot": 4,
-			"teacher": "Dr. Alice Johnson",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Wednesday",
-			"group": "Group 3",
-			"moduleName": "ALGO",
-			"room": "Lab 126",
-			"session_type": "TP",
-			"slot": 4,
-			"teacher": "Dr. Laoudi Farid",
-			"time": "13:00 - 14:30"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 4",
-			"moduleName": "ALGO",
-			"room": "Lab 123",
-			"session_type": "TP",
-			"slot": 5,
-			"teacher": "Dr. Alice Johnson",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 3",
 			"moduleName": "THG",
-			"room": "Salle 164",
+			"room": "Amphi K",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "Dr. Smali Cherif",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "THG",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "THG",
+			"room": "Salle 152",
 			"session_type": "TD",
 			"slot": 5,
 			"teacher": "Dr. Smali Cherif",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Tuesday",
+			"day": "mercredi",
+			"group": "Group 3",
+			"moduleName": "THG",
+			"room": "Salle 164",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
 			"group": "Group 4",
 			"moduleName": "THG",
-			"room": "Salle 166",
+			"room": "Salle 184",
 			"session_type": "TD",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "RESEAUX",
+			"room": "Amphi I",
+			"session_type": "Lecture",
 			"slot": 3,
-			"teacher": "Dr. Alice Johnson",
+			"teacher": "No teacher available",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Tuesday",
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "RESEAUX",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 2",
+			"moduleName": "RESEAUX",
+			"room": "Lab 123",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "RESEAUX",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "jeudi",
+			"group": "Group 3",
+			"moduleName": "RESEAUX",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 4",
+			"moduleName": "RESEAUX",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "jeudi",
 			"group": null,
 			"moduleName": "POO",
+			"room": "Amphi E",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "POO",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "jeudi",
+			"group": "Group 2",
+			"moduleName": "POO",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "POO",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 4",
+			"moduleName": "POO",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		}
+	],
+	"2INGB": [
+		{
+			"day": "mardi",
+			"group": null,
+			"moduleName": "ANALYSE",
+			"room": "Amphi A",
+			"session_type": "Lecture",
+			"slot": 1,
+			"teacher": "Hakim",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "ANALYSE",
+			"room": "Salle 180",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Hakim",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 2",
+			"moduleName": "ANALYSE",
+			"room": "Salle 158",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Hakim",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 4",
+			"moduleName": "ANALYSE",
+			"room": "Salle 168",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Hakim",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "dimanche",
+			"group": null,
+			"moduleName": "SFSD",
+			"room": "Amphi K",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "SFSD",
+			"room": "Salle 184",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "SFSD",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": null,
+			"moduleName": "COMPLEXITE",
 			"room": "Amphi A",
 			"session_type": "Lecture",
 			"slot": 2,
 			"teacher": "Dr. Mezghenna Mohanned",
 			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "COMPLEXITE",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 2",
+			"moduleName": "COMPLEXITE",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 3",
+			"moduleName": "COMPLEXITE",
+			"room": "Lab 123",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "COMPLEXITE",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "ARCHI",
+			"room": "Amphi B",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 1",
+			"moduleName": "ARCHI",
+			"room": "Salle 174",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 2",
+			"moduleName": "ARCHI",
+			"room": "Salle 156",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 3",
+			"moduleName": "ARCHI",
+			"room": "Salle 162",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 4",
+			"moduleName": "ARCHI",
+			"room": "Salle 174",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Prof. Bob Smith",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mardi",
+			"group": null,
+			"moduleName": "THG",
+			"room": "Amphi B",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "THG",
+			"room": "Salle 172",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 2",
+			"moduleName": "THG",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "THG",
+			"room": "Salle 172",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Dr. Smali Cherif",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "jeudi",
+			"group": null,
+			"moduleName": "RESEAUX",
+			"room": "Amphi I",
+			"session_type": "Lecture",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Salle 160",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "jeudi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "RESEAUX",
+			"room": "Salle 154",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "RESEAUX",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "RESEAUX",
+			"room": "Salle 162",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 3",
+			"moduleName": "RESEAUX",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "RESEAUX",
+			"room": "Salle 158",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "RESEAUX",
+			"room": "Lab 123",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "mardi",
+			"group": null,
+			"moduleName": "POO",
+			"room": "Amphi E",
+			"session_type": "Lecture",
+			"slot": 1,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 1",
+			"moduleName": "POO",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 2",
+			"moduleName": "POO",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "jeudi",
+			"group": "Group 3",
+			"moduleName": "POO",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "POO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
 		}
 	],
-	"3GTR": [
+	"2ISILB": [
 		{
-			"day": "Thursday",
+			"day": "lundi",
 			"group": null,
-			"moduleName": "Game Theory",
-			"room": "Amphi F",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Amphi C",
 			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 160",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Hakim",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 2",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 176",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 172",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 158",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "ARCHI",
+			"room": "Amphi G",
+			"session_type": "Lecture",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "ARCHI",
+			"room": "Salle 156",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Prof. Bob Smith",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 1",
+			"moduleName": "ARCHI",
+			"room": "Lab 128",
+			"session_type": "TP",
 			"slot": 3,
 			"teacher": "Dr. Droul Nesrine Ilhem",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Saturday",
-			"group": "Group 1",
-			"moduleName": "Game Theory",
-			"room": "Lab 123",
-			"session_type": "TP",
-			"slot": 4,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "13:00 - 14:30"
+			"day": "dimanche",
+			"group": "Group 2",
+			"moduleName": "ARCHI",
+			"room": "Salle 160",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Prof. Bob Smith",
+			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Thursday",
+			"day": "jeudi",
 			"group": "Group 2",
-			"moduleName": "Game Theory",
+			"moduleName": "ARCHI",
 			"room": "Lab 122",
 			"session_type": "TP",
-			"slot": 4,
+			"slot": 5,
+			"teacher": "Prof. Bob Smith",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 3",
+			"moduleName": "ARCHI",
+			"room": "Lab 125",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Prof. Bob Smith",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "ARCHI",
+			"room": "Salle 178",
+			"session_type": "TD",
+			"slot": 3,
 			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "ARCHI",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "ALGO",
+			"room": "Amphi J",
+			"session_type": "Lecture",
+			"slot": 5,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "ALGO",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "ALGO",
+			"room": "Lab 123",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "ALGO",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Alice Johnson",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 4",
+			"moduleName": "ALGO",
+			"room": "Lab 126",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "Dr. Alice Johnson",
 			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Sunday",
+			"day": "samedi",
+			"group": null,
+			"moduleName": "SI",
+			"room": "Amphi E",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "SI",
+			"room": "Salle 164",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 2",
+			"moduleName": "SI",
+			"room": "Salle 168",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
 			"group": "Group 3",
+			"moduleName": "SI",
+			"room": "Salle 170",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "SI",
+			"room": "Salle 180",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": null,
+			"moduleName": "THG",
+			"room": "Amphi F",
+			"session_type": "Lecture",
+			"slot": 5,
+			"teacher": "Dr. Smali Cherif",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "THG",
+			"room": "Salle 170",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "THG",
+			"room": "Salle 174",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Smali Cherif",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 3",
+			"moduleName": "THG",
+			"room": "Salle 184",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Smali Cherif",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 4",
+			"moduleName": "THG",
+			"room": "Salle 154",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Dr. Smali Cherif",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": null,
+			"moduleName": "ANGLAIS",
+			"room": "Amphi B",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "jeudi",
+			"group": null,
+			"moduleName": "POO",
+			"room": "Amphi H",
+			"session_type": "Lecture",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "jeudi",
+			"group": "Group 1",
+			"moduleName": "POO",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 2",
+			"moduleName": "POO",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "POO",
+			"room": "Lab 124",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "POO",
+			"room": "Lab 124",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		}
+	],
+	"3GTR": [
+		{
+			"day": "samedi",
+			"group": null,
+			"moduleName": "Game Theory",
+			"room": "Amphi H",
+			"session_type": "Lecture",
+			"slot": 5,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
 			"moduleName": "Game Theory",
 			"room": "Lab 128",
 			"session_type": "TP",
@@ -971,84 +1683,496 @@
 			"time": "8:00 - 9:30"
 		},
 		{
-			"day": "Thursday",
+			"day": "samedi",
+			"group": "Group 2",
+			"moduleName": "Game Theory",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "Game Theory",
+			"room": "Lab 124",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mardi",
 			"group": "Group 4",
 			"moduleName": "Game Theory",
 			"room": "Lab 122",
 			"session_type": "TP",
-			"slot": 3,
+			"slot": 4,
 			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "11:20 - 12:50"
+			"time": "13:00 - 14:30"
 		},
 		{
-			"day": "Monday",
+			"day": "samedi",
 			"group": null,
 			"moduleName": "Risk Management",
-			"room": "Amphi G",
+			"room": "Amphi E",
 			"session_type": "Lecture",
-			"slot": 5,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 2",
-			"moduleName": "Risk Management",
-			"room": "Salle 180",
-			"session_type": "TD",
-			"slot": 5,
-			"teacher": "Dr. Droul Nesrine Ilhem",
-			"time": "14:40 - 16:10"
-		},
-		{
-			"day": "Monday",
-			"group": "Group 3",
-			"moduleName": "Risk Management",
-			"room": "Salle 152",
-			"session_type": "TD",
 			"slot": 2,
-			"teacher": "Dr. Droul Nesrine Ilhem",
+			"teacher": "No teacher available",
 			"time": "9:40 - 11:10"
 		},
 		{
-			"day": "Saturday",
-			"group": "Group 4",
+			"day": "dimanche",
+			"group": "Group 1",
 			"moduleName": "Risk Management",
-			"room": "Salle 152",
+			"room": "Salle 154",
 			"session_type": "TD",
 			"slot": 3,
 			"teacher": "Dr. Droul Nesrine Ilhem",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Saturday",
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "Risk Management",
+			"room": "Salle 184",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Droul Nesrine Ilhem",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "Risk Management",
+			"room": "Salle 156",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "dimanche",
 			"group": null,
 			"moduleName": "RESEAUX",
 			"room": "Amphi K",
 			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Salle 176",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "RESEAUX",
+			"room": "Salle 182",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 3",
+			"moduleName": "RESEAUX",
+			"room": "Salle 180",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "RESEAUX",
+			"room": "Salle 172",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		}
+	],
+	"4BIGDATA": [
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "AI",
+			"room": "Amphi B",
+			"session_type": "Lecture",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "AI",
+			"room": "Salle 152",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "AI",
+			"room": "Salle 152",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 3",
+			"moduleName": "AI",
+			"room": "Salle 156",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 4",
+			"moduleName": "AI",
+			"room": "Salle 150",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": null,
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Amphi J",
+			"session_type": "Lecture",
+			"slot": 5,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 1",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 152",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 2",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 154",
+			"session_type": "TD",
+			"slot": 3,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 4",
+			"moduleName": "ANALYSE NUMERIQUE",
+			"room": "Salle 150",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Hakim",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "dimanche",
+			"group": null,
+			"moduleName": "TELECOME",
+			"room": "Amphi K",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "No teacher available",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "TELECOME",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 2",
+			"moduleName": "TELECOME",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 3",
+			"moduleName": "TELECOME",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 4",
+			"moduleName": "TELECOME",
+			"room": "Lab 123",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "DATA ANALYSIS",
+			"room": "Amphi I",
+			"session_type": "Lecture",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 1",
+			"moduleName": "DATA ANALYSIS",
+			"room": "Salle 162",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "No teacher available",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 3",
+			"moduleName": "DATA ANALYSIS",
+			"room": "Salle 152",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 4",
+			"moduleName": "DATA ANALYSIS",
+			"room": "Salle 152",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "No teacher available",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "dimanche",
+			"group": null,
+			"moduleName": "ALGO",
+			"room": "Amphi I",
+			"session_type": "Lecture",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "ALGO",
+			"room": "Salle 168",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 2",
+			"moduleName": "ALGO",
+			"room": "Salle 170",
+			"session_type": "TD",
+			"slot": 2,
+			"teacher": "Dr. Alice Johnson",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 3",
+			"moduleName": "ALGO",
+			"room": "Salle 176",
+			"session_type": "TD",
+			"slot": 4,
+			"teacher": "Dr. Alice Johnson",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "ALGO",
+			"room": "Salle 162",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "Dr. Alice Johnson",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "mercredi",
+			"group": null,
+			"moduleName": "RESEAUX",
+			"room": "Amphi I",
+			"session_type": "Lecture",
+			"slot": 4,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Salle 154",
+			"session_type": "TD",
+			"slot": 1,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 1",
+			"moduleName": "RESEAUX",
+			"room": "Lab 126",
+			"session_type": "TP",
 			"slot": 5,
 			"teacher": "Dr. Mezghenna Mohanned",
 			"time": "14:40 - 16:10"
 		},
 		{
-			"day": "Sunday",
+			"day": "mardi",
 			"group": "Group 2",
 			"moduleName": "RESEAUX",
-			"room": "Salle 170",
+			"room": "Salle 158",
 			"session_type": "TD",
-			"slot": 3,
+			"slot": 5,
 			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "jeudi",
+			"group": "Group 2",
+			"moduleName": "RESEAUX",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "No teacher available",
 			"time": "11:20 - 12:50"
 		},
 		{
-			"day": "Wednesday",
+			"day": "lundi",
 			"group": "Group 3",
 			"moduleName": "RESEAUX",
-			"room": "Salle 154",
+			"room": "Salle 158",
+			"session_type": "TD",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "samedi",
+			"group": "Group 3",
+			"moduleName": "RESEAUX",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 1,
+			"teacher": "Dr. Mezghenna Mohanned",
+			"time": "8:00 - 9:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "RESEAUX",
+			"room": "Salle 182",
 			"session_type": "TD",
 			"slot": 2,
-			"teacher": "Dr. Laoudi Farid",
+			"teacher": "No teacher available",
 			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mardi",
+			"group": "Group 4",
+			"moduleName": "RESEAUX",
+			"room": "Lab 122",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "Dr. Laoudi Farid",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "samedi",
+			"group": null,
+			"moduleName": "SYS",
+			"room": "Amphi I",
+			"session_type": "Lecture",
+			"slot": 3,
+			"teacher": "No teacher available",
+			"time": "11:20 - 12:50"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 1",
+			"moduleName": "SYS",
+			"room": "Lab 124",
+			"session_type": "TP",
+			"slot": 2,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "9:40 - 11:10"
+		},
+		{
+			"day": "mercredi",
+			"group": "Group 2",
+			"moduleName": "SYS",
+			"room": "Lab 123",
+			"session_type": "TP",
+			"slot": 5,
+			"teacher": "No teacher available",
+			"time": "14:40 - 16:10"
+		},
+		{
+			"day": "dimanche",
+			"group": "Group 3",
+			"moduleName": "SYS",
+			"room": "Lab 127",
+			"session_type": "TP",
+			"slot": 4,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "13:00 - 14:30"
+		},
+		{
+			"day": "lundi",
+			"group": "Group 4",
+			"moduleName": "SYS",
+			"room": "Lab 128",
+			"session_type": "TP",
+			"slot": 3,
+			"teacher": "Dr. Ghazi Oussama Soheib",
+			"time": "11:20 - 12:50"
 		}
 	]
 }

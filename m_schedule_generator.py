@@ -8,6 +8,7 @@ class ScheduleGenerator:
         self.schedule = []
         self.assigned_lectures = set()
         self.assigned_group_sessions = {}
+        self.teacher_commitments = {}
         self.time_slots = {
             1: "8:00 - 9:30",
             2: "9:40 - 11:10",
@@ -16,36 +17,52 @@ class ScheduleGenerator:
             5: "14:40 - 16:10"
         }
 
-    def find_suitable_teacher(self, module_name, day):
+    def find_suitable_teacher(self, module_name, day, slot):
         qualified_teachers = [
             teacher for teacher in self.teachers
             if any(m['name'] == module_name for m in teacher['modules']) and day in teacher['availability']
         ]
-        if not qualified_teachers:
+        available_teachers = [
+            t for t in qualified_teachers
+            if (t['name'], day, slot) not in self.teacher_commitments
+        ]
+        if not available_teachers:
             return "No teacher available"
-        qualified_teachers.sort(key=lambda x: next((mod['priority'] for mod in x['modules'] if mod['name'] == module_name), float('inf')))
-        return qualified_teachers[0]['name']
+        available_teachers.sort(key=lambda x: next((mod['priority'] for mod in x['modules'] if mod['name'] == module_name), float('inf')))
+        return available_teachers[0]['name']
 
     def find_available_room(self, session_type, day, available_rooms):
-        suitable_rooms = [room for room in available_rooms if room['type'] == session_type and day in room['availability']]
+        suitable_rooms = [
+            room for room in available_rooms
+            if room['type'] == session_type and day in room['availability']
+        ]
         return random.choice(suitable_rooms)['name'] if suitable_rooms else None
 
     def assign_session(self, group, module, session_type, day, available_rooms):
+        slot = random.choice(list(self.time_slots.keys()))
+        time = self.time_slots[slot]
+
+        print(f"Attempting to schedule {session_type} for {module['moduleName']} on {day} slot {slot}")
+
         if session_type == 'Lecture' and module['moduleName'] in self.assigned_lectures:
+            print("Lecture already assigned for this module.")
             return
         if group and (module['moduleName'], session_type, group) in self.assigned_group_sessions:
+            print(f"{session_type} already assigned for this group.")
             return
 
         room_name = self.find_available_room(session_type, day, available_rooms)
         if not room_name:
+            print("No available room.")
             return
 
-        teacher = self.find_suitable_teacher(module['moduleName'], day)
-        if teacher == "No teacher available":
-            return
-
-        slot = random.choice(list(self.time_slots.keys()))  # rak rayeh tkhyr random time slot
-        time = self.time_slots[slot]
+        teacher = self.find_suitable_teacher(module['moduleName'], day, slot)
+        if teacher == "No teacher available" or (teacher, day, slot) in self.teacher_commitments:
+            print(f"No available teacher or teacher already booked: {teacher}")
+            teacher = "No teacher available"
+        else:
+            self.teacher_commitments[(teacher, day, slot)] = True
+            print(f"Teacher {teacher} booked for {day} slot {slot}")
 
         self.schedule.append({
             'day': day,
@@ -62,6 +79,10 @@ class ScheduleGenerator:
             self.assigned_lectures.add(module['moduleName'])
         if group:
             self.assigned_group_sessions[(module['moduleName'], session_type, group)] = True
+
+        print(f"Session scheduled: {self.schedule[-1]}")
+
+
 
     def generate_schedule(self):
         days_of_week = ["lundi", "mardi", "mercredi", "jeudi", "dimanche", "samedi"]
