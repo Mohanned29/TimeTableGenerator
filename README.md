@@ -2,6 +2,8 @@
 
 ## System Architecture Overview
 
+Ce projet est une solution de planification avancée spécialement conçue pour la Faculté d'Informatique. Ce projet vise à automatiser et à rationaliser la création des emplois du temps, répondant aux défis spécifiques de planification rencontrés par les établissements académiques.
+
 The scheduling system is designed to manage and generate schedules for various academic sections within an institution. It utilizes several classes and methods interconnected to efficiently allocate rooms, teachers, and time slots for courses as specified in the JSON configuration.
 
 ## Module: m_schedule_generator.py
