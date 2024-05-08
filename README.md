@@ -10,13 +10,13 @@ The scheduling system is designed to manage and generate schedules for various a
 
 This class encapsulates the logic for generating schedules for a specific section.
 
-#### Attributes
-- **section:** Represents the section for which the schedule is being generated.
-- **rooms:** Contains the available rooms where sessions can be scheduled.
-- **teachers:** Holds information about the teachers available to conduct sessions.
-- **schedule:** Stores the generated schedule.
-- **global_room_usage:** Tracks the usage of rooms across all sections to prevent scheduling conflicts.
-- **last_used_room_index:** A dictionary to keep track of the last used room index for each session type (Lecture, TD, TP).
+- **section:** The academic section for which the schedule is being generated.
+- **rooms:** List of available rooms for scheduling.
+- **teachers:** List of available teachers including their teaching modules and availability.
+- **schedule:** List that stores the generated schedule entries.
+- **assigned_lectures:** Set that keeps track of already assigned lectures to avoid duplication.
+- **assigned_group_sessions:** Dictionary to track sessions assigned to specific groups to prevent overlap.
+- **teacher_commitments:** Dictionary to track when and where each teacher is already scheduled.
 
 #### Methods
 
@@ -121,4 +121,11 @@ The scheduling system utilizes a Flask web application to provide a user-friendl
 - **User Interface:** Provides an interactive and easy-to-navigate interface for users to view and manage the schedules.
 - **API Endpoints:** Flask routes handle requests to generate, update, or fetch schedules, interfacing with the scheduling system backend.
 - **Data Visualization:** Integrates tools for visualizing schedules in a calendar view to facilitate easier understanding and management.
-  
+
+
+
+### Getting Started
+**To set up and run the scheduling system:**
+
+- **Installation**: Ensure Python 3.x is installed along with Flask. Install other dependencies as listed in requirements.txt.
+- **Execution:** Run the Flask application with python app.py and utilize the provided API endpoints to interact with the system.
