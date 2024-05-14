@@ -1,0 +1,8866 @@
+{
+  "sections": [
+    {
+      "name": "Section 1",
+      "groups": [
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algo",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section C",
+      "groups": [
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 4",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "TCE",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Bureautique et Web",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Introduction aux systèmes d’exploitation 1",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "groups": [
+        "Groupe 3",
+        "Groupe 4",
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Introduction aux systèmes d’exploitation 1",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Bureautique et Web",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "TCE",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Bureautique et Web",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Introduction aux systèmes d’exploitation 1",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "TCE",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 1",
+      "groups": [
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algo",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "TCE",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 2",
+      "groups": [
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Strm",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "TCE",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 3",
+      "groups": [
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "TCE",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 1",
+      "groups": [
+        "Groupe 3",
+        "Groupe 2",
+        "Groupe 4",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 4",
+      "groups": [
+        "Groupe 1",
+        "Groupe 4",
+        "Groupe 2",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 5",
+      "groups": [
+        "Groupe 2",
+        "Groupe 4",
+        "Groupe 1",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 6",
+      "groups": [
+        "Groupe 1",
+        "Groupe 4",
+        "Groupe 2",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 7",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 2",
+      "groups": [
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 4",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section 3",
+      "groups": [
+        "Groupe 4",
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algebre",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Strm 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 1",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Physique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "groups": [
+        "Groupe 3",
+        "Groupe 4",
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Analyse numerique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 3",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Logique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Proba",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "POO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "SI",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 3",
+        "Groupe 4",
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Logique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse numerique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Proba",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "SI",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "POO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 3",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 4",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Proba 2",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 2",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse 3",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "POO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Entreprenariat",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Algorithmique et complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre 3",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "SFSD",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algorithmique et complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "SFSD",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Proba 2",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algebre 3",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 2",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "POO",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse 3",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Entreprenariat",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 4",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algo 3",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Logique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse numerique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "SI",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Proba",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "groups": [
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "SI",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 3",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Logique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Analyse numerique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Proba",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section C",
+      "groups": [
+        "Groupe 1",
+        "Groupe 4",
+        "Groupe 2",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Proba",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Archi 1",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo 3",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Analyse numerique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Logique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "SI",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 3",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Electronique numérique",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Transmissions réseaux et codage d’information",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algo. & structures de données ou Electromagnétisme",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Electronique analogique",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Utilisation et administration des systèmes d’exploitation",
+              "lectures": 2,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "groups": [
+        "Groupe 2",
+        "Groupe 4",
+        "Groupe 1",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Génie Logiciel 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "SI 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Bases de Données 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Système d’exploitation 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Compilation",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Reseaux",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 4"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Bases de Données 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Compilation",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "SI 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Reseaux",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Système d’exploitation 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Génie Logiciel 2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Programmation Web",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Syst. de communication analogiques et numériques",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Théorie de l’info. caractérisation de la transmission",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Réseaux et communication sans fil",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes de Télécom. et interopérabilité des réseaux",
+              "lectures": 2,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Téléphonie, Téléphonie mobile et IP",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Administration réseaux",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section B",
+      "groups": [
+        "Groupe 1",
+        "Groupe 4",
+        "Groupe 3",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Systèmes d’exploitation 2",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Reseaux",
+              "lectures": 2,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Compilation",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Théorie des graphes",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Génie Logiciel et POO",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Option",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 4",
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Théorie des graphes",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Option",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Compilation",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes d’exploitation 2",
+              "lectures": 2,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Génie Logiciel et POO",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Reseaux",
+              "lectures": 2,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Algorithmique Avancée et Complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Mathématiques appliquées (Analyse numérique)",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes d’exploitation",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Architectures Avancées",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Modélisation et Simulation",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Bases de données Avancées",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 0,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "SPS : Système et Programmation de Scripts",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "BIOGEN : Bioinfo et Génomique",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "BIOSTAT : Biostatistique",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Algorithmique Avancée et Complicité",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "BIOMATH : Biomathématique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "GPR : Gestion de Projet",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Résolution de problèmes",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Communication Multimédia",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Architecture des Bases de données",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Algorithmes Avancé et Complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes d’exploitation",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Traitement et analyse d’images",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2",
+        "Groupe 3"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Gestion de Projets de Logiciels",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Modélisation et évaluation des performances des systèmes",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Systèmes d’exploitation",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Programmation Web Avancée",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Algorithmique Avancée et Complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Architecture et Administration de bases de Données",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Complexité algorithmique",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Systèmes d’exploitation",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Architectures des réseaux informatiques",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Arithmétique modulaire",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Aspects juridiques dans la sécurité informatique",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Veille technologique et Bases de données avancées",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Introduction à la sécurité informatique",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Systèmes d’exploitation",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Résolution de problèmes",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Algorithmique Avancée et Complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Compilation : génération du code et optimisation",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Modélisation et évaluation des performances des systèmes",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Architecture et administration des réseaux",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Théorie de l’ordonnancement",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Veille Technologie",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Stratégie de sécurité pour l’aide à la décision",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Graphes et Big Data",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Gestion de projet",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Programmation avancée",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Optimisation linéaire (option)",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 3",
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Architecture et Administration de SGBD",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Réseaux et Protocoles",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Modélisation et Evaluation de Performances des Systèmes",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Systèmes d’exploitation",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Gestion de Projet de Développement de Logiciels",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Algorithmique Avancée et Complexité",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "BSD : Biométrie et Sécurisation de Données",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "SE: Système Embarqués",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "ACP: Architecture et Calcul Parallèle",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "FD2: Fouille de Données2",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "MCA: Méthodes Conceptuelles d’Analyse",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "VDRA: Visualisation de Données et réalité Augmentée",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 4",
+        "Groupe 1",
+        "Groupe 3",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Calcul parallèle et grilles de calcul",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Réseaux et Protocoles",
+              "lectures": 0,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Systèmes embarqués et applications en environnement mobile",
+              "lectures": 0,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Systèmes d’exploitation distribués",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Réseaux sans fil",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Réseaux Mobiles",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Construction d’applications réparties",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Vision artificielle",
+              "lectures": 0,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 2",
+        "Groupe 3",
+        "Groupe 4",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Data Mining",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Traitement automatique du langage naturel",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Vision artificielle",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Recherche d’information",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Représentation de connaissances et raisonnement 2",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Programmation par contraintes",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Construction de systèmes Parallèles",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Techniques de modélisation et de traitement en mécanique des fluides",
+              "lectures": 0,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Administration et Gestion des grilles de calcul",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes d'exploitation des ordinateurs multiprocesseurs",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Programmation Multi-Cœurs",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Calcul Embarqué",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Imagerie Médicale et Parallélisme",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Techniques de modélisation en traitement du signal",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 2",
+        "Groupe 1"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Assurance Qualité des Logiciels",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes Décisionnels et Entrepôts",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Systèmes d’Information Coopératifs",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "Représentation des Connaissances",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Méthodologie et Processus de Développement de Logiciels",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Concepts Avancés du Génie Logiciel",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Gestion de projet",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Programmation réseau",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Théorie des jeux",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Synthèses d’images",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Systèmes d’exploitation Mobiles",
+              "lectures": 1,
+              "td": true,
+              "tp": true
+            },
+            {
+              "moduleName": "Visualisation de données",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Représentation de connaissances et raisonnement",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "Sécurité applicative",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Méthodes pratiques et outils de détection d’intrusions",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Audit de sécurité",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Modélisation des systèmes communicants",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Sécurité système avancée",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Méthodes d’optimisation",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "Programmation et sûreté des systèmes répartis",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Sécurité et contrôle du trafic réseau",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Section A",
+      "groups": [
+        "Groupe 1",
+        "Groupe 2"
+      ],
+      "schedule": [],
+      "capacity": 100,
+      "modules": [
+        {
+          "modules": [
+            {
+              "moduleName": "OPTDIS : Optimisation discrète",
+              "lectures": 2,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "SOLO : Solveurs pour l’optimisation",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "TIAD : Technologies de l’IA appliquées aux données",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "BDABD : Bases de Données Avancées et Big Data",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            },
+            {
+              "moduleName": "TBI-SIG : Technologies Business Intelligence",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anadiss (Analyse discriminante et segmentation)",
+              "lectures": 1,
+              "td": false,
+              "tp": true
+            },
+            {
+              "moduleName": "Anglais",
+              "lectures": 1,
+              "td": false,
+              "tp": false
+            },
+            {
+              "moduleName": "DESIN : Décision dans l’incertain",
+              "lectures": 1,
+              "td": true,
+              "tp": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Attar",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "reseaux"
+        },
+        {
+          "priority": 2,
+          "name": "Théorie des jeux"
+        },
+        {
+          "priority": 3,
+          "name": "Administration et Gestion des grilles de calcul"
+        },
+        {
+          "priority": 4,
+          "name": "Programmation et sûreté des systèmes répartis"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Hassaine",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Stratégie de sécurité pour l’aide à la décision"
+        },
+        {
+          "priority": 2,
+          "name": "term"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Benrahou",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Calcul parallèle et grilles de calcul"
+        },
+        {
+          "priority": 2,
+          "name": "programmation web avancee"
+        },
+        {
+          "priority": 3,
+          "name": "poo"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "mercredi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Ba",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Représentation de connaissances et raisonnement 2"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "proba 2"
+        },
+        {
+          "priority": 4,
+          "name": "Concepts Avancés du Génie Logiciel"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Boussaid",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Système d’exploitation 2"
+        },
+        {
+          "priority": 2,
+          "name": "Programmation réseau"
+        },
+        {
+          "priority": 3,
+          "name": "algebre"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Bouhaddi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "sfsd"
+        },
+        {
+          "priority": 2,
+          "name": "ACP: Architecture et Calcul Parallèle"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "Complexité algorithmique"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Houari",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "analyse"
+        },
+        {
+          "priority": 2,
+          "name": "Sécurité système avancée"
+        },
+        {
+          "priority": 3,
+          "name": "Méthodologie et Processus de Développement de Logiciels"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Boulahia",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de Projet de Développement de Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes d’exploitation distribués"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mardi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Boujemaa",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Introduction aux systèmes d’exploitation 1"
+        },
+        {
+          "priority": 2,
+          "name": "Théorie des jeux"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Boujemaa",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "term"
+        },
+        {
+          "priority": 2,
+          "name": "Visualisation de données"
+        },
+        {
+          "priority": 3,
+          "name": "Traitement automatique du langage naturel"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Cherif",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Modélisation et évaluation des performances des systèmes"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Strm 1"
+        },
+        {
+          "priority": 4,
+          "name": "TBI-SIG : Technologies Business Intelligence"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Daoud",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Complexité algorithmique"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Synthèses d’images"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Benghalia",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "ACP: Architecture et Calcul Parallèle"
+        },
+        {
+          "priority": 2,
+          "name": "BIOMATH : Biomathématique"
+        },
+        {
+          "priority": 3,
+          "name": "Compilation : génération du code et optimisation"
+        },
+        {
+          "priority": 4,
+          "name": "Méthodes d’optimisation"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Chalhoub",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Génie Logiciel 2"
+        },
+        {
+          "priority": 2,
+          "name": "Imagerie Médicale et Parallélisme"
+        },
+        {
+          "priority": 3,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        },
+        {
+          "priority": 4,
+          "name": "Construction d’applications réparties"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hamdi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes d’Information Coopératifs"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "BIOSTAT : Biostatistique"
+        },
+        {
+          "priority": 4,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Ghannouchi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Audit de sécurité"
+        },
+        {
+          "priority": 2,
+          "name": "Algorithmique et complexité"
+        },
+        {
+          "priority": 3,
+          "name": "Aspects juridiques dans la sécurité informatique"
+        },
+        {
+          "priority": 4,
+          "name": "Sécurité système avancée"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Hmida",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Vision artificielle"
+        },
+        {
+          "priority": 2,
+          "name": "Mathématiques appliquées (Analyse numérique)"
+        },
+        {
+          "priority": 3,
+          "name": "Strm 1"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Hamouda",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Techniques de modélisation en traitement du signal"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "BSD : Biométrie et Sécurisation de Données"
+        },
+        {
+          "priority": 4,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Arar",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Théorie des jeux"
+        },
+        {
+          "priority": 2,
+          "name": "Réseaux Mobiles"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation et sûreté des systèmes répartis"
+        },
+        {
+          "priority": 4,
+          "name": "Bureautique et Web"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Chahine",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "FD2: Fouille de Données2"
+        },
+        {
+          "priority": 2,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        },
+        {
+          "priority": 3,
+          "name": "Méthodes pratiques et outils de détection d’intrusions"
+        },
+        {
+          "priority": 4,
+          "name": "GPR : Gestion de Projet"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Hmida",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Transmissions réseaux et codage d’information"
+        },
+        {
+          "priority": 2,
+          "name": "modelisation et simulation"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "compilation"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Chakir",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Visualisation de données"
+        },
+        {
+          "priority": 2,
+          "name": "Construction de systèmes Parallèles"
+        },
+        {
+          "priority": 3,
+          "name": "modelisation et simulation"
+        },
+        {
+          "priority": 4,
+          "name": "Assurance Qualité des Logiciels"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Boudoukhane",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architectures Avancées"
+        },
+        {
+          "priority": 2,
+          "name": "Construction d’applications réparties"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Boulahia",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de Projets de Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "algebre 3"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hanafi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "reseaux"
+        },
+        {
+          "priority": 3,
+          "name": "Méthodologie et Processus de Développement de Logiciels"
+        },
+        {
+          "priority": 4,
+          "name": "MCA: Méthodes Conceptuelles d’Analyse"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Hammoud",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "BIOSTAT : Biostatistique"
+        },
+        {
+          "priority": 2,
+          "name": "Méthodologie et Processus de Développement de Logiciels"
+        },
+        {
+          "priority": 3,
+          "name": "analyse"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "samedi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Chafik",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Utilisation et administration des systèmes d’exploitation"
+        },
+        {
+          "priority": 2,
+          "name": "Gestion de Projets de Logiciels"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation et sûreté des systèmes répartis"
+        },
+        {
+          "priority": 4,
+          "name": "logique"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Benghalia",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Arithmétique modulaire"
+        },
+        {
+          "priority": 2,
+          "name": "Gestion de Projets de Logiciels"
+        },
+        {
+          "priority": 3,
+          "name": "Gestion de projet"
+        },
+        {
+          "priority": 4,
+          "name": "TBI-SIG : Technologies Business Intelligence"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Belkacem",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anadiss ( Analyse discriminante et segmentation )"
+        },
+        {
+          "priority": 2,
+          "name": "Méthodes d’optimisation"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation réseau"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Boumedienne",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Bureautique et Web"
+        },
+        {
+          "priority": 2,
+          "name": "Electronique analogique"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "Bases de Données 2"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hadjadj",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "proba"
+        },
+        {
+          "priority": 3,
+          "name": "TBI-SIG : Technologies Business Intelligence"
+        },
+        {
+          "priority": 4,
+          "name": "Modélisation des systèmes communicants"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Benmoussa",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Algorithmique et complexité"
+        },
+        {
+          "priority": 2,
+          "name": "anadiss ( Analyse discriminante et segmentation )"
+        },
+        {
+          "priority": 3,
+          "name": "Introduction à la sécurité informatique"
+        },
+        {
+          "priority": 4,
+          "name": "Génie Logiciel et POO"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Hafsi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "BDABD : Bases de Données Avancées et Big Data"
+        },
+        {
+          "priority": 2,
+          "name": "Vision artificielle"
+        },
+        {
+          "priority": 3,
+          "name": "Système d’exploitation 2"
+        },
+        {
+          "priority": 4,
+          "name": "Systèmes Décisionnels et Entrepôts"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bouchemal",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Méthodes pratiques et outils de détection d’intrusions"
+        },
+        {
+          "priority": 2,
+          "name": "Gestion de projet"
+        },
+        {
+          "priority": 3,
+          "name": "VDRA: Visualisation de Données et réalité Augmentée"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Cherif",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Utilisation et administration des systèmes d’exploitation"
+        },
+        {
+          "priority": 2,
+          "name": "Architecture des Bases de données"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Boussaid",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "ACP: Architecture et Calcul Parallèle"
+        },
+        {
+          "priority": 2,
+          "name": "SPS : Système et Programmation de Scripts"
+        },
+        {
+          "priority": 3,
+          "name": "Strm 1"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Fares",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "reseaux"
+        },
+        {
+          "priority": 2,
+          "name": "Entreprenariat"
+        },
+        {
+          "priority": 3,
+          "name": "algo 1"
+        },
+        {
+          "priority": 4,
+          "name": "Sécurité et contrôle du trafic réseau"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Alami",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes d’Information Coopératifs"
+        },
+        {
+          "priority": 2,
+          "name": "Techniques de modélisation et de traitement en mécanique des fluides"
+        },
+        {
+          "priority": 3,
+          "name": "Modélisation des systèmes communicants"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Abid",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Théorie des jeux"
+        },
+        {
+          "priority": 2,
+          "name": "Communication Multimédia"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "Veille technologique et Bases de données avancées"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "lundi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Chakir",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "physique"
+        },
+        {
+          "priority": 2,
+          "name": "Recherche d’information"
+        },
+        {
+          "priority": 3,
+          "name": "Théorie des jeux"
+        },
+        {
+          "priority": 4,
+          "name": "Systèmes d’exploitation distribués"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Boumedienne",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "option"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Arab",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Réseaux et communication sans fil"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Architectures des réseaux informatiques"
+        },
+        {
+          "priority": 4,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Boulahia",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architectures Avancées"
+        },
+        {
+          "priority": 2,
+          "name": "Traitement automatique du langage naturel"
+        },
+        {
+          "priority": 3,
+          "name": "Complexité algorithmique"
+        },
+        {
+          "priority": 4,
+          "name": "BIOSTAT : Biostatistique"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Afifi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de Projet de Développement de Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "Représentation de connaissances et raisonnement"
+        },
+        {
+          "priority": 3,
+          "name": "Mathématiques appliquées (Analyse numérique)"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Harb",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Modélisation et Evaluation de Performances des Systèmes"
+        },
+        {
+          "priority": 2,
+          "name": "Calcul Embarqué"
+        },
+        {
+          "priority": 3,
+          "name": "Architectures Avancées"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Assaf",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de projet"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "algebre"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Hattab",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Introduction aux systèmes d’exploitation 1"
+        },
+        {
+          "priority": 2,
+          "name": "Data Mining"
+        },
+        {
+          "priority": 3,
+          "name": "Architecture et administration des réseaux"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Boucif",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Traitement automatique du langage naturel"
+        },
+        {
+          "priority": 2,
+          "name": "Bases de Données 2"
+        },
+        {
+          "priority": 3,
+          "name": "Théorie des jeux"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Ghaleb",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Assurance Qualité des Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "Sécurité applicative"
+        },
+        {
+          "priority": 3,
+          "name": "strm"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Belkacem",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        },
+        {
+          "priority": 2,
+          "name": "compilation"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bahri",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "archi 2"
+        },
+        {
+          "priority": 2,
+          "name": "physique"
+        },
+        {
+          "priority": 3,
+          "name": "Veille Technologie"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Boudjema",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "Architecture et Administration de SGBD"
+        },
+        {
+          "priority": 3,
+          "name": "analyse 3"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hamdan",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Calcul parallèle et grilles de calcul"
+        },
+        {
+          "priority": 2,
+          "name": "Système d’exploitation 2"
+        },
+        {
+          "priority": 3,
+          "name": "Gestion de projet"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Ech",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de Projets de Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "Architectures Avancées"
+        },
+        {
+          "priority": 3,
+          "name": "Data Mining"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Chalhoub",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "archi 1"
+        },
+        {
+          "priority": 2,
+          "name": "SOLO : Solveurs pour l’optimisation"
+        },
+        {
+          "priority": 3,
+          "name": "Architecture et Administration de SGBD"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Achour",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes d’exploitation"
+        },
+        {
+          "priority": 2,
+          "name": "MCA: Méthodes Conceptuelles d’Analyse"
+        },
+        {
+          "priority": 3,
+          "name": "Optimisation linéaire (option)"
+        },
+        {
+          "priority": 4,
+          "name": "algebre 3"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Benghalia",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Data Mining"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "FD2: Fouille de Données2"
+        },
+        {
+          "priority": 4,
+          "name": "Audit de sécurité"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hatem",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Introduction à la sécurité informatique"
+        },
+        {
+          "priority": 2,
+          "name": "Architectures des réseaux informatiques"
+        },
+        {
+          "priority": 3,
+          "name": "Entreprenariat"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "samedi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Chakir",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Résolution de problèmes"
+        },
+        {
+          "priority": 2,
+          "name": "Gestion de Projet de Développement de Logiciels"
+        },
+        {
+          "priority": 3,
+          "name": "Réseaux sans fil"
+        },
+        {
+          "priority": 4,
+          "name": "archi 1"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bougara",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "Synthèses d’images"
+        },
+        {
+          "priority": 3,
+          "name": "Architecture et Administration de bases de Données"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Belkhadem",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes d’exploitation Mobiles"
+        },
+        {
+          "priority": 2,
+          "name": "Vision artificielle"
+        },
+        {
+          "priority": 3,
+          "name": "Réseaux sans fil"
+        },
+        {
+          "priority": 4,
+          "name": "Sécurité système avancée"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hadj",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Théorie de l’ordonnancement"
+        },
+        {
+          "priority": 2,
+          "name": "Programmation Web"
+        },
+        {
+          "priority": 3,
+          "name": "modelisation et simulation"
+        },
+        {
+          "priority": 4,
+          "name": "Techniques de modélisation et de traitement en mécanique des fluides"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "El",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Mathématiques appliquées (Analyse numérique)"
+        },
+        {
+          "priority": 2,
+          "name": "Algorithmique et complexité"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes d’exploitation distribués"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Benali",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Programmation et sûreté des systèmes répartis"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Bureautique et Web"
+        },
+        {
+          "priority": 4,
+          "name": "Théorie de l’ordonnancement"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "jeudi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Chabane",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "reseaux"
+        },
+        {
+          "priority": 2,
+          "name": "Transmissions réseaux et codage d’information"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes d’exploitation distribués"
+        },
+        {
+          "priority": 4,
+          "name": "BIOSTAT : Biostatistique"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Hajj",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes de Télécom. et interopérabilité des réseaux"
+        },
+        {
+          "priority": 2,
+          "name": "Méthodes d’optimisation"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Boujemaa",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Résolution de problèmes"
+        },
+        {
+          "priority": 2,
+          "name": "Veille Technologie"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation et sûreté des systèmes répartis"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Boudoukhane",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "compilation"
+        },
+        {
+          "priority": 2,
+          "name": "Mathématiques appliquées (Analyse numérique)"
+        },
+        {
+          "priority": 3,
+          "name": "Electronique analogique"
+        },
+        {
+          "priority": 4,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "samedi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bounoua",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "logique"
+        },
+        {
+          "priority": 2,
+          "name": "Modélisation et évaluation des performances des systèmes"
+        },
+        {
+          "priority": 3,
+          "name": "TBI-SIG : Technologies Business Intelligence"
+        },
+        {
+          "priority": 4,
+          "name": "Techniques de modélisation et de traitement en mécanique des fluides"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Hanafi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "option"
+        },
+        {
+          "priority": 2,
+          "name": "Complexité algorithmique"
+        },
+        {
+          "priority": 3,
+          "name": "Sécurité applicative"
+        },
+        {
+          "priority": 4,
+          "name": "Théorie de l’info. caractérisation de la transmission"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Afifi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Représentation de connaissances et raisonnement"
+        },
+        {
+          "priority": 2,
+          "name": "algo 3"
+        },
+        {
+          "priority": 3,
+          "name": "VDRA: Visualisation de Données et réalité Augmentée"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Haddad",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Concepts Avancés du Génie Logiciel"
+        },
+        {
+          "priority": 2,
+          "name": "analyse 3"
+        },
+        {
+          "priority": 3,
+          "name": "Représentation de connaissances et raisonnement"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bougara",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Réseaux Mobiles"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "physique"
+        },
+        {
+          "priority": 4,
+          "name": "Théorie de l’info. caractérisation de la transmission"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Haddad",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Electronique analogique"
+        },
+        {
+          "priority": 2,
+          "name": "Administration et Gestion des grilles de calcul"
+        },
+        {
+          "priority": 3,
+          "name": "Réseaux et communication sans fil"
+        },
+        {
+          "priority": 4,
+          "name": "algo 1"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Chaker",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "BDABD : Bases de Données Avancées et Big Data"
+        },
+        {
+          "priority": 2,
+          "name": "Systèmes d’Information Coopératifs"
+        },
+        {
+          "priority": 3,
+          "name": "logique"
+        },
+        {
+          "priority": 4,
+          "name": "Modélisation des systèmes communicants"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "samedi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Afifi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Imagerie Médicale et Parallélisme"
+        },
+        {
+          "priority": 2,
+          "name": "Méthodologie et Processus de Développement de Logiciels"
+        },
+        {
+          "priority": 3,
+          "name": "Théorie de l’ordonnancement"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Abdeslam",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de Projets de Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Berrada",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes Décisionnels et Entrepôts"
+        },
+        {
+          "priority": 2,
+          "name": "Entreprenariat"
+        },
+        {
+          "priority": 3,
+          "name": "Architectures des réseaux informatiques"
+        },
+        {
+          "priority": 4,
+          "name": "Représentation de connaissances et raisonnement"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Boudjema",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "si"
+        },
+        {
+          "priority": 2,
+          "name": "Recherche d’information"
+        },
+        {
+          "priority": 3,
+          "name": "Introduction à la sécurité informatique"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Benkirane",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Arithmétique modulaire"
+        },
+        {
+          "priority": 2,
+          "name": "Représentation des Connaissances"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "strm"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Boussalem",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Programmation par contraintes"
+        },
+        {
+          "priority": 2,
+          "name": "Réseaux et communication sans fil"
+        },
+        {
+          "priority": 3,
+          "name": "Architectures Avancées"
+        },
+        {
+          "priority": 4,
+          "name": "Architecture et Administration de SGBD"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Aziz",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Programmation par contraintes"
+        },
+        {
+          "priority": 2,
+          "name": "Traitement automatique du langage naturel"
+        },
+        {
+          "priority": 3,
+          "name": "Méthodologie et Processus de Développement de Logiciels"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Bouchaib",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Calcul Embarqué"
+        },
+        {
+          "priority": 4,
+          "name": "Vision artificielle"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Daghari",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Réseaux et communication sans fil"
+        },
+        {
+          "priority": 2,
+          "name": "Représentation des Connaissances"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation Multi-Cœurs"
+        },
+        {
+          "priority": 4,
+          "name": "Système d’exploitation 2"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Aziz",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "poo"
+        },
+        {
+          "priority": 3,
+          "name": "strm"
+        },
+        {
+          "priority": 4,
+          "name": "anadiss ( Analyse discriminante et segmentation )"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Attar",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "si 2"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Calcul parallèle et grilles de calcul"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Afifi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "TCE"
+        },
+        {
+          "priority": 2,
+          "name": "Systèmes d’exploitation"
+        },
+        {
+          "priority": 3,
+          "name": "Electronique numérique"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Djouder",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "SPS : Système et Programmation de Scripts"
+        },
+        {
+          "priority": 2,
+          "name": "Téléphonie, Téléphonie mobile et IP"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "MCA: Méthodes Conceptuelles d’Analyse"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Aziz",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes embarqués et applications en environnement mobile"
+        },
+        {
+          "priority": 2,
+          "name": "DESIN : Décision dans l’incertain"
+        },
+        {
+          "priority": 3,
+          "name": "Complexité algorithmique"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Bouhani",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Data Mining"
+        },
+        {
+          "priority": 2,
+          "name": "BIOMATH : Biomathématique"
+        },
+        {
+          "priority": 3,
+          "name": "Théorie des graphes"
+        },
+        {
+          "priority": 4,
+          "name": "Architecture et administration des réseaux"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bahloul",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anadiss ( Analyse discriminante et segmentation )"
+        },
+        {
+          "priority": 2,
+          "name": "Visualisation de données"
+        },
+        {
+          "priority": 3,
+          "name": "Modélisation et évaluation des performances des systèmes"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bentaleb",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Vision artificielle"
+        },
+        {
+          "priority": 2,
+          "name": "OPTDIS : Optimisation discrète"
+        },
+        {
+          "priority": 3,
+          "name": "Réseaux sans fil"
+        },
+        {
+          "priority": 4,
+          "name": "algo 1"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Cherif",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Syst. de communication analogiques et numériques"
+        },
+        {
+          "priority": 2,
+          "name": "Electronique numérique"
+        },
+        {
+          "priority": 3,
+          "name": "Communication Multimédia"
+        },
+        {
+          "priority": 4,
+          "name": "si 2"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "samedi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Baladi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architecture des Bases de données"
+        },
+        {
+          "priority": 2,
+          "name": "Résolution de problèmes"
+        },
+        {
+          "priority": 3,
+          "name": "Concepts Avancés du Génie Logiciel"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bennani",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "Algorithmique et complexité"
+        },
+        {
+          "priority": 3,
+          "name": "TCE"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bahri",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architecture des Bases de données"
+        },
+        {
+          "priority": 2,
+          "name": "SPS : Système et Programmation de Scripts"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes d’exploitation"
+        },
+        {
+          "priority": 4,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "dimanche",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Hattab",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "algebre 3"
+        },
+        {
+          "priority": 2,
+          "name": "Représentation de connaissances et raisonnement 2"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Bounoua",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Assurance Qualité des Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "Transmissions réseaux et codage d’information"
+        },
+        {
+          "priority": 3,
+          "name": "Méthodes pratiques et outils de détection d’intrusions"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Benmoussa",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Programmation réseau"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "Concepts Avancés du Génie Logiciel"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "El",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "SPS : Système et Programmation de Scripts"
+        },
+        {
+          "priority": 2,
+          "name": "physique"
+        },
+        {
+          "priority": 3,
+          "name": "Génie Logiciel et POO"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Hadjadj",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "sfsd"
+        },
+        {
+          "priority": 2,
+          "name": "Programmation Multi-Cœurs"
+        },
+        {
+          "priority": 3,
+          "name": "Représentation de connaissances et raisonnement"
+        },
+        {
+          "priority": 4,
+          "name": "algo 3"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Aggoune",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Gestion de Projet de Développement de Logiciels"
+        },
+        {
+          "priority": 2,
+          "name": "Calcul Embarqué"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation Multi-Cœurs"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mercredi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bouhaddi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Compilation : génération du code et optimisation"
+        },
+        {
+          "priority": 2,
+          "name": "Systèmes d’exploitation"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "physique"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Hafsi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Réseaux et Protocoles"
+        },
+        {
+          "priority": 2,
+          "name": "archi 1"
+        },
+        {
+          "priority": 3,
+          "name": "compilation"
+        },
+        {
+          "priority": 4,
+          "name": "Gestion de projet"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Bouras",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architecture et Administration de SGBD"
+        },
+        {
+          "priority": 2,
+          "name": "Stratégie de sécurité pour l’aide à la décision"
+        },
+        {
+          "priority": 3,
+          "name": "Architecture des Bases de données"
+        },
+        {
+          "priority": 4,
+          "name": "algebre"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Bou",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        },
+        {
+          "priority": 2,
+          "name": "Complexité algorithmique"
+        },
+        {
+          "priority": 3,
+          "name": "Recherche d’information"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bendjeddou",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Génie Logiciel 2"
+        },
+        {
+          "priority": 2,
+          "name": "Réseaux sans fil"
+        },
+        {
+          "priority": 3,
+          "name": "Bases de Données 2"
+        },
+        {
+          "priority": 4,
+          "name": "Gestion de projet"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Chelabi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "BIOMATH : Biomathématique"
+        },
+        {
+          "priority": 2,
+          "name": "SE: Système Embarqués"
+        },
+        {
+          "priority": 3,
+          "name": "Bases de Données 2"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Amrani",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Veille technologique et Bases de données avancées"
+        },
+        {
+          "priority": 2,
+          "name": "FD2: Fouille de Données2"
+        },
+        {
+          "priority": 3,
+          "name": "Architecture et Administration de bases de Données"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bentaleb",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Arithmétique modulaire"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "BIOSTAT : Biostatistique"
+        },
+        {
+          "priority": 4,
+          "name": "poo"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Daghari",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Techniques de modélisation en traitement du signal"
+        },
+        {
+          "priority": 2,
+          "name": "Synthèses d’images"
+        },
+        {
+          "priority": 3,
+          "name": "Génie Logiciel 2"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "jeudi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Chakir",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architecture et Administration de bases de Données"
+        },
+        {
+          "priority": 2,
+          "name": "algo 1"
+        },
+        {
+          "priority": 3,
+          "name": "sfsd"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Bouhaddi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes Décisionnels et Entrepôts"
+        },
+        {
+          "priority": 2,
+          "name": "FD2: Fouille de Données2"
+        },
+        {
+          "priority": 3,
+          "name": "Vision artificielle"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Cherif",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Modélisation des systèmes communicants"
+        },
+        {
+          "priority": 2,
+          "name": "SE: Système Embarqués"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        },
+        {
+          "priority": 4,
+          "name": "Audit de sécurité"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Debchi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Théorie de l’info. caractérisation de la transmission"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "BSD : Biométrie et Sécurisation de Données"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Gharbi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "compilation"
+        },
+        {
+          "priority": 2,
+          "name": "Syst. de communication analogiques et numériques"
+        },
+        {
+          "priority": 3,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Ghannouchi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architecture et Administration de SGBD"
+        },
+        {
+          "priority": 2,
+          "name": "algo 1"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes d’exploitation distribués"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Hmida",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Architecture et Administration de bases de Données"
+        },
+        {
+          "priority": 2,
+          "name": "Programmation réseau"
+        },
+        {
+          "priority": 3,
+          "name": "Mathématiques appliquées (Analyse numérique)"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Amrani",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "proba 2"
+        },
+        {
+          "priority": 2,
+          "name": "Traitement automatique du langage naturel"
+        },
+        {
+          "priority": 3,
+          "name": "Programmation Web"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "dimanche",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Chaker",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "physique"
+        },
+        {
+          "priority": 2,
+          "name": "Construction de systèmes Parallèles"
+        },
+        {
+          "priority": 3,
+          "name": "Introduction à la sécurité informatique"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Balouch",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Systèmes Décisionnels et Entrepôts"
+        },
+        {
+          "priority": 2,
+          "name": "term"
+        },
+        {
+          "priority": 3,
+          "name": "Electronique numérique"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Amrani",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Bureautique et Web"
+        },
+        {
+          "priority": 2,
+          "name": "DESIN : Décision dans l’incertain"
+        },
+        {
+          "priority": 3,
+          "name": "Téléphonie, Téléphonie mobile et IP"
+        },
+        {
+          "priority": 4,
+          "name": "BSD : Biométrie et Sécurisation de Données"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Harb",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Génie Logiciel 2"
+        },
+        {
+          "priority": 2,
+          "name": "anglais"
+        },
+        {
+          "priority": 3,
+          "name": "BIOGEN : Bioinfo et Génomique"
+        },
+        {
+          "priority": 4,
+          "name": "Systèmes d’exploitation distribués"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Baladi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Sécurité et contrôle du trafic réseau"
+        },
+        {
+          "priority": 2,
+          "name": "Bases de données Avancées"
+        },
+        {
+          "priority": 3,
+          "name": "Synthèses d’images"
+        }
+      ],
+      "availability": [
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Bou",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Construction de systèmes Parallèles"
+        },
+        {
+          "priority": 2,
+          "name": "Visualisation de données"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes Décisionnels et Entrepôts"
+        },
+        {
+          "priority": 4,
+          "name": "anglais"
+        }
+      ],
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Abdo",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "anglais"
+        },
+        {
+          "priority": 2,
+          "name": "Visualisation de données"
+        },
+        {
+          "priority": 3,
+          "name": "Réseaux et Protocoles"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Hmida",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Concepts Avancés du Génie Logiciel"
+        },
+        {
+          "priority": 2,
+          "name": "Traitement automatique du langage naturel"
+        },
+        {
+          "priority": 3,
+          "name": "SOLO : Solveurs pour l’optimisation"
+        },
+        {
+          "priority": 4,
+          "name": "modelisation et simulation"
+        }
+      ],
+      "availability": [
+        "lundi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Hamdi",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "SE: Système Embarqués"
+        },
+        {
+          "priority": 2,
+          "name": "SPS : Système et Programmation de Scripts"
+        },
+        {
+          "priority": 3,
+          "name": "Systèmes Décisionnels et Entrepôts"
+        },
+        {
+          "priority": 4,
+          "name": "Utilisation et administration des systèmes d’exploitation"
+        }
+      ],
+      "availability": [
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Houari",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "proba 2"
+        },
+        {
+          "priority": 2,
+          "name": "FD2: Fouille de Données2"
+        },
+        {
+          "priority": 3,
+          "name": "Arithmétique modulaire"
+        },
+        {
+          "priority": 4,
+          "name": "Représentation de connaissances et raisonnement 2"
+        }
+      ],
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Debbeche",
+      "modules": [
+        {
+          "priority": 1,
+          "name": "Analyse numerique"
+        },
+        {
+          "priority": 2,
+          "name": "GPR : Gestion de Projet"
+        },
+        {
+          "priority": 3,
+          "name": "Gestion de projet"
+        },
+        {
+          "priority": 4,
+          "name": "Assurance Qualité des Logiciels"
+        }
+      ],
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "dimanche"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "name": "112",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "113",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "114",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "115",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "samedi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "116",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "117",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "118",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "119",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "120",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "121",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "122",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "123",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "124",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "lundi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "125",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "126",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "127",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "128",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "129",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mardi",
+        "dimanche",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "130",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "131",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "samedi",
+        "mercredi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "132",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "jeudi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "133",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "134",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "135",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "136",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mercredi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "137",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "138",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "139",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "140",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "mardi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "141",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "142",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "143",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "144",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "mercredi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "145",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "146",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "147",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "148",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "dimanche",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "149",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "150",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "151",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "152",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "153",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "jeudi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "154",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "155",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "156",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "mardi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "157",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "158",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "lundi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "159",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "160",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "161",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "162",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "163",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "164",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "165",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "samedi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "166",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "167",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "168",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "169",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "170",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "171",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "lundi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "172",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "173",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "174",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "175",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "176",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "177",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "178",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "179",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "180",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "181",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "182",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "183",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "184",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "185",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "186",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "187",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "188",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "189",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "190",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "191",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mardi",
+        "dimanche",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "192",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "193",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "194",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "195",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "196",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "197",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "198",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "lundi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "199",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "200",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "201",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "202",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "203",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "204",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "205",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "206",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "lundi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "207",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "lundi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "208",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "209",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "210",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "211",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "212",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "213",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "214",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "215",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "216",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "217",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "218",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "219",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "220",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "221",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "222",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "lundi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "223",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "224",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "225",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "226",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "dimanche",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "227",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "228",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "229",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "230",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "mercredi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "231",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "232",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "233",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "234",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "samedi",
+        "mercredi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "235",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "236",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "237",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "mardi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "238",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "239",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "240",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "lundi"
+      ]
+    },
+    {
+      "name": "241",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "jeudi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "242",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "samedi",
+        "mercredi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "243",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "244",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "245",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "246",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "mardi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "247",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mardi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "248",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "mardi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "249",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "250",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "251",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "252",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "253",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "254",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "255",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "256",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "257",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "samedi",
+        "mardi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "258",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mardi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "259",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "260",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "261",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "262",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "263",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "264",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "265",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "dimanche",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "266",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "267",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "268",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "269",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "jeudi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "270",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "samedi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "271",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mardi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "272",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "273",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "274",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "275",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "276",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "samedi",
+        "mercredi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "277",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "278",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "279",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "280",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "281",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "282",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "dimanche",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "283",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "284",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "285",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "dimanche",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "286",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "287",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "288",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "289",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "290",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "lundi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "291",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "292",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "293",
+      "type": "TD",
+      "availability": [
+        "lundi",
+        "mardi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "294",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "295",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "296",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "297",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "298",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "299",
+      "type": "TD",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "300",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "301",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "302",
+      "type": "TD",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "samedi",
+        "jeudi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "303",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "304",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "305",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "306",
+      "type": "TD",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "307",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "308",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "309",
+      "type": "TD",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "dimanche",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "310",
+      "type": "TD",
+      "availability": [
+        "mardi",
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "311",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "312",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "313",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "314",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "315",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "316",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "317",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "318",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "jeudi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "319",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "320",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "321",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "322",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "323",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mardi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "324",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "325",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "326",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "mardi",
+        "mercredi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "327",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "lundi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "328",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "329",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "330",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "331",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "mardi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "332",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "333",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "dimanche",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "334",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "335",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "336",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "dimanche",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "337",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "lundi",
+        "dimanche",
+        "mercredi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "338",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "339",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "mercredi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "340",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mardi",
+        "lundi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "341",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "342",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "343",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "344",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "mardi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "345",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "346",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "347",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "mardi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "348",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "349",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "350",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "351",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "mercredi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "352",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "dimanche",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "353",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "lundi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "354",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "lundi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "355",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "356",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "jeudi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "357",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "358",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "359",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "360",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "mardi",
+        "mercredi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "361",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "dimanche",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "362",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "lundi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "363",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "dimanche",
+        "mercredi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "364",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mardi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "365",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "samedi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "366",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "367",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "368",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "lundi",
+        "mercredi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "369",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mercredi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "370",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "lundi",
+        "jeudi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "126",
+      "type": "TP",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "127",
+      "type": "TP",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "128",
+      "type": "TP",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "129",
+      "type": "TP",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "130",
+      "type": "TP",
+      "availability": [
+        "samedi",
+        "lundi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "131",
+      "type": "TP",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "132",
+      "type": "TP",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "C1",
+      "type": "TP",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "C2",
+      "type": "TP",
+      "availability": [
+        "samedi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "C3",
+      "type": "TP",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "C4",
+      "type": "TP",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mercredi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "C5",
+      "type": "TP",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "C6",
+      "type": "TP",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "C7",
+      "type": "TP",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "jeudi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "C8",
+      "type": "TP",
+      "availability": [
+        "lundi",
+        "mardi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Amphi A",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Amphi B",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "mardi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Amphi C",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Amphi D",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "dimanche",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Amphi E",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "mercredi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Amphi F",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "samedi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Amphi G",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "mercredi",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Amphi H",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Amphi I",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "lundi",
+        "mercredi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "Amphi J",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Amphi K",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "mardi",
+        "samedi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Amphi L",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Amphi M",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "lundi",
+        "samedi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Amphi N",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "jeudi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Amphi O",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Amphi P",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "lundi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "Amphi Q",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "jeudi",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Amphi R",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Amphi S",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "mercredi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Amphi T",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "dimanche",
+        "lundi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "Amphi U",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "jeudi",
+        "samedi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Amphi V",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Amphi W",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "samedi",
+        "dimanche",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "Amphi X",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "samedi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "Amphi Y",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "jeudi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "Amphi Z",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "mercredi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "R1",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "E1",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mercredi",
+        "mardi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "D1",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "samedi",
+        "dimanche",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "R2",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "samedi",
+        "mercredi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "E2",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "D2",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "R3",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "lundi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "E3",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "mardi",
+        "samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "D3",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "mardi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "R4",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "jeudi",
+        "samedi"
+      ]
+    },
+    {
+      "name": "E4",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "samedi",
+        "mardi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "D4",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mardi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "R5",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "lundi",
+        "dimanche",
+        "mardi"
+      ]
+    },
+    {
+      "name": "E5",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "samedi",
+        "lundi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "D5",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "jeudi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "R6",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mardi",
+        "dimanche",
+        "samedi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "E6",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "mercredi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "D6",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "mercredi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "R7",
+      "type": "cour",
+      "availability": [
+        "mercredi",
+        "dimanche",
+        "samedi",
+        "jeudi",
+        "mardi"
+      ]
+    },
+    {
+      "name": "E7",
+      "type": "cour",
+      "availability": [
+        "jeudi",
+        "dimanche",
+        "mercredi",
+        "samedi",
+        "lundi"
+      ]
+    },
+    {
+      "name": "D7",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "dimanche",
+        "mardi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "R8",
+      "type": "cour",
+      "availability": [
+        "lundi",
+        "mercredi",
+        "dimanche",
+        "samedi"
+      ]
+    },
+    {
+      "name": "E8",
+      "type": "cour",
+      "availability": [
+        "mardi",
+        "lundi",
+        "jeudi"
+      ]
+    },
+    {
+      "name": "D8",
+      "type": "cour",
+      "availability": [
+        "dimanche",
+        "lundi",
+        "samedi",
+        "jeudi",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "R9",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mardi",
+        "dimanche"
+      ]
+    },
+    {
+      "name": "E9",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "dimanche",
+        "mercredi"
+      ]
+    },
+    {
+      "name": "D9",
+      "type": "cour",
+      "availability": [
+        "samedi",
+        "mardi",
+        "dimanche"
+      ]
+    }
+  ]
+}

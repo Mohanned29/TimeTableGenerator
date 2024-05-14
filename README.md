@@ -12,52 +12,67 @@ The scheduling system is designed to manage and generate schedules for various a
 
 This class encapsulates the logic for generating schedules for a specific section.
 
+#### Attributes
+
+- **year:** The academic year for which the schedule is being generated.
 - **section:** The academic section for which the schedule is being generated.
 - **rooms:** List of available rooms for scheduling.
 - **teachers:** List of available teachers including their teaching modules and availability.
 - **schedule:** List that stores the generated schedule entries.
 - **assigned_lectures:** Set that keeps track of already assigned lectures to avoid duplication.
-- **assigned_group_sessions:** Dictionary to track sessions assigned to specific groups to prevent overlap.
+- **assigned_group_sessions:** Set to track sessions assigned to specific groups to prevent overlap.
 - **teacher_commitments:** Dictionary to track when and where each teacher is already scheduled.
+- **room_availability:** Dictionary to track room availability.
+- **time_slots:** Dictionary of available time slots for scheduling sessions.
 
 #### Methods
 
-1. **Method: teacher_is_available(teacher_name, day)**
-   - **Purpose:** Checks if a given teacher is available on a specific day.
+1. **init_availability()**
+   - **Purpose:** Initializes the availability for rooms and teachers.
+   - **Explanation:** Sets up the availability for each room and teacher for all days of the week.
+
+2. **find_suitable_teacher(module_name, day)**
+   - **Purpose:** Finds a suitable teacher for a given module on a specific day.
    - **Parameters:**
-     - **teacher_name:** The name of the teacher to check availability for.
-     - **day:** The day for which availability is being checked.
-   - **Returns:** true if the teacher is available on the specified day, otherwise false.
-   - **Explanation:** Iterates through the list of teachers to find if the provided teacher is available on the given day. If any teacher with a matching name and availability on the specified day is found, the method returns True; otherwise, it returns False.
+     - **module_name:** The name of the module.
+     - **day:** The day for which a teacher is needed.
+   - **Returns:** The name of a suitable teacher, or None if no teacher is available.
 
-
-2. **Method: room_is_available(room_name, day, start_time, end_time)**
-   - **Purpose:** Checks if a given room is available for a session at a specified time slot.
+3. **find_available_room(session_type, day)**
+   - **Purpose:** Finds an available room for a session type on a specific day.
    - **Parameters:**
-     - **room_name:** The name of the room being checked for availability.
-     - **day:** The day for which availability is being checked.
-     - **start_time:** The start time of the session.
-     - **end_time:** The end time of the session.
-   - **Returns:** True if the room is available for the specified time slot, otherwise False.
-   - **Explanation:** Retrieves the bookings for the specified room and day from the global room usage data. It then iterates through these bookings to check if there are any conflicting time slots. If no conflicts are found, the method returns True; otherwise, it returns False.
+     - **session_type:** The type of session (Lecture, TD, TP).
+     - **day:** The day for which a room is needed.
+   - **Returns:** The name of an available room, or None if no room is available.
 
-
-3. **Method: assign_session(moduleName, session_type, day, start_time, end_time, room)**
-   - **Purpose:** Assigns a session to a specific time slot, room, and teacher.
+4. **assign_session(group, module, session_type, day)**
+   - **Purpose:** Assigns a session to a group, module, and day, ensuring room and teacher availability.
    - **Parameters:**
-     - **moduleName:** The name of the module for which the session is being assigned.
-     - **session_type:** The type of session being assigned (Lecture, TD, TP).
+     - **group:** The group for which the session is being assigned.
+     - **module:** The module for which the session is being assigned.
+     - **session_type:** The type of session (Lecture, TD, TP).
      - **day:** The day of the session.
-     - **start_time:** The start time of the session.
-     - **end_time:** The end time of the session.
-     - **room:** The room where the session is being assigned.
-   - **Explanation:** Checks if the specified room is available for the given time slot. If it is, it finds a suitable teacher for the module and assigns the session to that teacher, updating the schedule and global room usage data accordingly. If the room is not available, it prints a failure message.
+   - **Explanation:** Checks room and teacher availability and assigns the session if possible.
 
+5. **is_slot_available(slot, day)**
+   - **Purpose:** Checks if a specific slot is available for any room and teacher on the given day.
+   - **Parameters:**
+     - **slot:** The time slot being checked.
+     - **day:** The day being checked.
+   - **Returns:** True if the slot is available, otherwise False.
 
-4. **Method: generate_schedule()**
+6. **update_availability(room_name, teacher_name, day, slot)**
+   - **Purpose:** Updates the availability of a room and teacher for a specific slot and day.
+   - **Parameters:**
+     - **room_name:** The name of the room.
+     - **teacher_name:** The name of the teacher.
+     - **day:** The day of the session.
+     - **slot:** The time slot of the session.
+
+7. **generate_schedule()**
    - **Purpose:** Generates the complete schedule for all modules in the section.
    - **Returns:** The generated schedule.
-   - **Explanation:** Iterates through all module groups in the section and schedules lectures, TDs, and TPs for each module using the respective scheduling methods. Finally, it returns the complete schedule.
+   - **Explanation:** Iterates through all module groups in the section and schedules lectures, TDs, and TPs for each module using the respective scheduling methods.
 
 ## Module: schedule_manager.py
 
@@ -66,12 +81,14 @@ This class encapsulates the logic for generating schedules for a specific sectio
 This class manages the generation of schedules for multiple sections.
 
 #### Attributes
+
 - **sections:** Contains information about all the sections for which schedules need to be generated.
 - **rooms:** Holds data about available rooms where sessions can be scheduled.
 - **teachers:** Stores information about teachers available to conduct sessions.
 - **global_room_usage:** Tracks the usage of rooms across all sections to prevent scheduling conflicts.
 
 #### Methods
+
 - **generate_schedules_for_all():** Generates schedules for all sections by creating a ScheduleGenerator instance for each section and generating schedules using the provided rooms and teachers.
 
 ## Components Interaction
@@ -80,9 +97,8 @@ This class manages the generation of schedules for multiple sections.
 2. **ScheduleManager Class:** Acts as the central control unit that manages the scheduling for all sections using the ScheduleGenerator instances. It accesses global resources like room and teacher availability and coordinates the scheduling activities across different sections to avoid conflicts.
 3. **ScheduleGenerator Class:** Responsible for generating the schedule for a specific section. It interacts with the data layers to fetch teacher availability and room schedules. This class contains multiple methods to handle different scheduling tasks.
 4. **Data Layer Interaction:** Both ScheduleManager and ScheduleGenerator interact heavily with the JSON-configured data to retrieve and update scheduling information. This includes checking the availability of rooms and teachers and updating schedules as sessions are assigned.
-5. **Utility Methods:** Methods like teacher_is_available and is_time_slot_used_by_another_section provide utility support by checking specific conditions that affect the scheduling decisions, ensuring that no overlaps or conflicts occur in the schedules.
+5. **Utility Methods:** Methods like find_suitable_teacher and find_available_room provide utility support by checking specific conditions that affect the scheduling decisions, ensuring that no overlaps or conflicts occur in the schedules.
 6. **Execution Flow:** The system initiates by creating an instance of ScheduleManager. ScheduleManager then iterates through each section and creates an instance of ScheduleGenerator for each. ScheduleGenerator uses its methods to generate a complete schedule for its section based on the available data and constraints. Results are compiled into the final schedule for all sections and can be further processed or displayed.
-
 
 ## Flask Application Integration
 
@@ -98,10 +114,9 @@ The scheduling system utilizes a Flask web application to provide a user-friendl
 - **API Endpoints:** Flask routes handle requests to generate, update, or fetch schedules, interfacing with the scheduling system backend.
 - **Data Visualization:** Integrates tools for visualizing schedules in a calendar view to facilitate easier understanding and management.
 
-
-
 ### Getting Started
+
 **To set up and run the scheduling system:**
 
-- **Installation**: Ensure Python 3.x is installed along with Flask. Install other dependencies as listed in requirements.txt.
-- **Execution:** Run the Flask application with python app.py and utilize the provided API endpoints to interact with the system.
+- **Installation:** Ensure Python 3.x is installed along with Flask. Install other dependencies as listed in requirements.txt.
+- **Execution:** Run the Flask application with `python app.py` and utilize the provided API endpoints to interact with the system.
