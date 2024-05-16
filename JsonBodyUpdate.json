@@ -1,113 +1,116 @@
 {
   "years":{
     "2nd Year": {
-        "sections": [
-          {
-            "name": "2INGA",
-            "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
-            "modules": [
-              {
-                "modules": [
-                  {
-                    "moduleName": "ANALYSE",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "SFSD",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "COMPLEXITE",
-                    "lectures": 1,
-                    "td": false,
-                    "tp": true
-                  },
-                  {
-                    "moduleName": "ARCHI",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "THG",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "RESEAUX",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": true
-                  },
-                  {
-                    "moduleName": "POO",
-                    "lectures": 1,
-                    "td": false,
-                    "tp": true
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "2INGB",
-            "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
-            "modules": [
-              {
-                "modules": [
-                  {
-                    "moduleName": "ANALYSE",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "SFSD",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "COMPLEXITE",
-                    "lectures": 1,
-                    "td": false,
-                    "tp": true
-                  },
-                  {
-                    "moduleName": "ARCHI",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "THG",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": false
-                  },
-                  {
-                    "moduleName": "RESEAUX",
-                    "lectures": 1,
-                    "td": true,
-                    "tp": true
-                  },
-                  {
-                    "moduleName": "POO",
-                    "lectures": 1,
-                    "td": false,
-                    "tp": true
-                  }
-                ]
-              }
-            ]
-          },
+      "sections": [
+        {
+          "name": "2INGA",
+          "speciality": "Ingeniorat",
+          "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
+          "modules": [
+            {
+              "modules": [
+                {
+                  "moduleName": "ANALYSE",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "SFSD",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "COMPLEXITE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "moduleName": "ARCHI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "THG",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "RESEAUX",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "moduleName": "POO",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2INGB",
+          "speciality": "Ingeniorat",
+          "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
+          "modules": [
+            {
+              "modules": [
+                {
+                  "moduleName": "ANALYSE",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "SFSD",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "COMPLEXITE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "moduleName": "ARCHI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "THG",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "moduleName": "RESEAUX",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "moduleName": "POO",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                }
+              ]
+            }
+          ]
+        },
           {
             "name": "2ISILB",
+            "speciality": "LMD",
             "groups": [
               "Group 1",
               "Group 2",
@@ -171,6 +174,7 @@
         "sections": [
           {
             "name": "4BIGDATA",
+            "speciality": "Data Science",
             "groups": ["Group 1", "Group 2", "Group 3", "Group 4"],
             "modules": [
               {
