@@ -1,7 +1,6 @@
 import random
 
 class ScheduleGenerator:
-
     def __init__(self, year, section, rooms, teachers):
         self.year = year
         self.section = section
@@ -21,7 +20,6 @@ class ScheduleGenerator:
         }
         self.init_availability()
 
-
     def init_availability(self):
         days_of_week = ["lundi", "mardi", "mercredi", "jeudi", "dimanche", "samedi"]
         for room in self.rooms:
@@ -29,30 +27,27 @@ class ScheduleGenerator:
         for teacher in self.teachers:
             self.teacher_commitments[teacher['name']] = {day: [True] * 5 for day in days_of_week}
 
-
     def find_suitable_teacher(self, module_name, day):
         qualified_teachers = [
             teacher for teacher in self.teachers
             if any(m['name'].lower() == module_name.lower() for m in teacher['modules']) and day in teacher['availability']
         ]
-        random.shuffle(qualified_teachers)
+        random.shuffle(qualified_teachers)  # Shuffle to introduce randomness
         for teacher in qualified_teachers:
             if any(self.teacher_commitments[teacher['name']][day]):
                 return teacher['name']
         return None
-
 
     def find_available_room(self, session_type, day):
         suitable_rooms = [
             room for room in self.rooms
             if room['type'].lower() == session_type.lower() and day in room['availability']
         ]
-        random.shuffle(suitable_rooms)
+        random.shuffle(suitable_rooms)  # Shuffle to introduce randomness
         for room in suitable_rooms:
             if any(self.room_availability[room['name']][day]):
                 return room['name']
         return None
-
 
     def assign_session(self, group, module, session_type, day):
         """Assign a session to a group, module, and day, ensuring room and teacher availability."""
@@ -83,19 +78,16 @@ class ScheduleGenerator:
         })
         self.update_availability(room_name, teacher, day, slot)
 
-
     def is_slot_available(self, slot, day):
         """Check if a specific slot is available for any room and teacher on the given day."""
         return any(self.room_availability[room][day][slot - 1] for room in self.room_availability) and \
-                any(self.teacher_commitments[teacher][day][slot - 1] for teacher in self.teacher_commitments)
-
+               any(self.teacher_commitments[teacher][day][slot - 1] for teacher in self.teacher_commitments)
 
     def update_availability(self, room_name, teacher_name, day, slot):
         """Update the availability of a room and teacher for a specific slot and day."""
         self.room_availability[room_name][day][slot - 1] = False
         if teacher_name != "No teacher available":
             self.teacher_commitments[teacher_name][day][slot - 1] = False
-
 
     def generate_schedule(self):
         days_of_week = ["lundi", "mardi", "mercredi", "jeudi", "dimanche", "samedi"]
