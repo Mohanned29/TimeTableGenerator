@@ -84,14 +84,25 @@ This class manages the generation of schedules for multiple sections.
 
 #### Attributes
 
-- **sections:** Contains information about all the sections for which schedules need to be generated.
+- **years:** Contains information about all the academic years and their respective sections.
 - **rooms:** Holds data about available rooms where sessions can be scheduled.
 - **teachers:** Stores information about teachers available to conduct sessions.
-- **global_room_usage:** Tracks the usage of rooms across all sections to prevent scheduling conflicts.
 
 #### Methods
 
-- **generate_schedules_for_all():** Generates schedules for all sections by creating a ScheduleGenerator instance for each section and generating schedules using the provided rooms and teachers.
+- **__init__(self, years, rooms, teachers)**
+   - **Purpose:** Initializes the ScheduleManager with years, rooms, and teachers.
+   - **Parameters:**
+     - **years:** Dictionary containing academic years and their respective sections.
+     - **rooms:** List of available rooms for scheduling.
+     - **teachers:** List of available teachers including their teaching modules and availability.
+
+- **generate_schedules_for_all(self)**
+   - **Purpose:** Generates schedules for all sections by creating a ScheduleGenerator instance for each section and generating schedules using the provided rooms and teachers.
+   - **Returns:** A list of generated schedules for all years and sections.
+   - **Explanation:** Iterates through each year and section, generates schedules using ScheduleGenerator, and compiles them into a final schedule.
+
+
 
 ## Components Interaction
 
