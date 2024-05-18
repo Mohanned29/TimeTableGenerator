@@ -14,7 +14,6 @@ class ScheduleManager:
                 "year": year_number,
                 "specialite": []
             }
-
             for specialite_entry in year_entry['specialite']:
                 speciality_name = specialite_entry['name']
                 speciality_schedule = {
@@ -24,22 +23,17 @@ class ScheduleManager:
 
                 for section_data in specialite_entry['sections']:
                     section_name = section_data['name']
-                    groups = section_data.get('groups', [])
-                    modules = section_data.get('modules', [])
 
-                    
                     section_info = {
-                        "name": section_name,
-                        "groups": groups,
-                        "modules": modules
+                        "name": section_name
                     }
-
-                    generator = ScheduleGenerator(year_number, section_info, self.rooms, self.teachers)
+                    generator = ScheduleGenerator(year_number, section_data, self.rooms, self.teachers)
                     section_schedule = generator.generate_schedule()
                     section_info["schedule"] = section_schedule
                     speciality_schedule["sections"].append(section_info)
 
                 year_schedule["specialite"].append(speciality_schedule)
+
             schedules.append(year_schedule)
 
         return schedules
