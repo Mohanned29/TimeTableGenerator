@@ -100,7 +100,11 @@ This class manages the generation of schedules for multiple sections.
 - **generate_schedules_for_all(self)**
    - **Purpose:** Generates schedules for all sections by creating a ScheduleGenerator instance for each section and generating schedules using the provided rooms and teachers.
    - **Returns:** A list of generated schedules for all years and sections.
-   - **Explanation:** Iterates through each year and section, generates schedules using ScheduleGenerator, and compiles them into a final schedule.
+   - **Explanation:** 
+     - Iterates through each year and section, generates schedules using ScheduleGenerator, and compiles them into a final schedule.
+     - For each year, iterates through the specialities and their sections, creating a ScheduleGenerator instance for each section.
+     - Generates the schedule for each section, adding the generated schedule to the respective section's information.
+     - Compiles the schedules for all sections into the final schedule for each year.
 
 
 
