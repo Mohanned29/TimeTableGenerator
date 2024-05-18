@@ -8,31 +8,38 @@ class ScheduleManager:
 
     def generate_schedules_for_all(self):
         schedules = []
-        for year_name, year_data in self.years.items():
-            year_number = int(year_name.split(' ')[0].replace('th', '').replace('nd', '').replace('st', ''))
+        for year_entry in self.years:
+            year_number = year_entry['year']
             year_schedule = {
                 "year": year_number,
                 "specialite": []
             }
-            specialities = {}
-            
-            sections = year_data.get('sections', [])
-            for section_data in sections:
-                speciality = section_data.get('speciality', 'Unknown Speciality')
-                if speciality not in specialities:
-                    specialities[speciality] = {
-                        "name": speciality,
-                        "sections": []
-                    }
-                
-                generator = ScheduleGenerator(year_name, section_data, self.rooms, self.teachers)
-                section_schedule = generator.generate_schedule()
-                section_info = {
-                    "name": section_data['name'],
-                    "schedule": section_schedule
+
+            for specialite_entry in year_entry['specialite']:
+                speciality_name = specialite_entry['name']
+                speciality_schedule = {
+                    "name": speciality_name,
+                    "sections": []
                 }
-                specialities[speciality]["sections"].append(section_info)
-            
-            year_schedule["specialite"] = list(specialities.values())
+
+                for section_data in specialite_entry['sections']:
+                    section_name = section_data['name']
+                    groups = section_data.get('groups', [])
+                    modules = section_data.get('modules', [])
+
+                    
+                    section_info = {
+                        "name": section_name,
+                        "groups": groups,
+                        "modules": modules
+                    }
+
+                    generator = ScheduleGenerator(year_number, section_info, self.rooms, self.teachers)
+                    section_schedule = generator.generate_schedule()
+                    section_info["schedule"] = section_schedule
+                    speciality_schedule["sections"].append(section_info)
+
+                year_schedule["specialite"].append(speciality_schedule)
             schedules.append(year_schedule)
+
         return schedules

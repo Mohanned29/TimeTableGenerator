@@ -1,0 +1,1403 @@
+{
+  "years": [
+    {
+      "year": 1,
+      "specialite": [
+        {
+          "name": "L1 Informatique SIGL (à distance)",
+          "sections": [
+            {
+              "name": "Section 1",
+              "groups": [
+                "Groupe 1"
+              ],
+              "modules": [
+                {
+                  "name": "Algo",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1ere année ING Informatique",
+          "sections": [
+            {
+              "name": "Section C",
+              "groups": [
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 4",
+                "Groupe 1"
+              ],
+              "modules": [
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "TCE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Bureautique et Web",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Introduction aux systèmes d’exploitation 1",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section B",
+              "groups": [
+                "Groupe 3",
+                "Groupe 4",
+                "Groupe 2",
+                "Groupe 1"
+              ],
+              "modules": [
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Introduction aux systèmes d’exploitation 1",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Bureautique et Web",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "TCE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section A",
+              "groups": [
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Bureautique et Web",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Introduction aux systèmes d’exploitation 1",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "TCE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L1 MATH",
+          "sections": [
+            {
+              "name": "Section 1",
+              "groups": [
+                "Groupe 3",
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "TCE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section 2",
+              "groups": [
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 1",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "TCE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section 3",
+              "groups": [
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 1",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "TCE",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L1 Informatique LMD",
+          "sections": [
+            {
+              "name": "Section 1",
+              "groups": [
+                "Groupe 3",
+                "Groupe 2",
+                "Groupe 4",
+                "Groupe 1"
+              ],
+              "modules": [
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section 4",
+              "groups": [
+                "Groupe 1",
+                "Groupe 4",
+                "Groupe 2",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                }
+              ]
+            },
+            {
+              "name": "Section 5",
+              "groups": [
+                "Groupe 2",
+                "Groupe 4",
+                "Groupe 1",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section 6",
+              "groups": [
+                "Groupe 1",
+                "Groupe 4",
+                "Groupe 2",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                }
+              ]
+            },
+            {
+              "name": "Section 7",
+              "groups": [
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                }
+              ]
+            },
+            {
+              "name": "Section 2",
+              "groups": [
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 4",
+                "Groupe 1"
+              ],
+              "modules": [
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section 3",
+              "groups": [
+                "Groupe 4",
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Algebre",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Strm",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Thg",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "specialite": [
+        {
+          "name": "L2 ISIL",
+          "sections": [
+            {
+              "name": "Section B",
+              "groups": [
+                "Groupe 3",
+                "Groupe 4",
+                "Groupe 1",
+                "Groupe 2"
+              ],
+              "modules": [
+                {
+                  "name": "Analyse numerique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Logique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Proba",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "POO",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Anglais",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "SI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section A",
+              "groups": [
+                "Groupe 3",
+                "Groupe 4",
+                "Groupe 2",
+                "Groupe 1"
+              ],
+              "modules": [
+                {
+                  "name": "Anglais",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Logique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse numerique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Proba",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "SI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "POO",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2eme année ING Informatique",
+          "sections": [
+            {
+              "name": "Section A",
+              "groups": [
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 4",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Proba 2",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "POO",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Entreprenariat",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Algorithmique et complexité",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre 3",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "SFSD",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                }
+              ]
+            },
+            {
+              "name": "Section B",
+              "groups": [
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Algorithmique et complexité",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "SFSD",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Proba 2",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algebre 3",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "POO",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Entreprenariat",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L2 ACAD",
+          "sections": [
+            {
+              "name": "Section A",
+              "groups": [
+                "Groupe 1",
+                "Groupe 2",
+                "Groupe 4",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Logique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse numerique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "SI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Proba",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Anglais",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section B",
+              "groups": [
+                "Groupe 2",
+                "Groupe 3",
+                "Groupe 1",
+                "Groupe 4"
+              ],
+              "modules": [
+                {
+                  "name": "Anglais",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "SI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Logique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Analyse numerique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Proba",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            },
+            {
+              "name": "Section C",
+              "groups": [
+                "Groupe 1",
+                "Groupe 4",
+                "Groupe 2",
+                "Groupe 3"
+              ],
+              "modules": [
+                {
+                  "name": "Proba",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Archi",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Analyse numerique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Anglais",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Logique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "SI",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L2 GTR",
+          "sections": [
+            {
+              "name": "Section A",
+              "groups": [
+                "Groupe 1",
+                "Groupe 3",
+                "Groupe 2"
+              ],
+              "modules": [
+                {
+                  "name": "Electronique numérique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Anglais",
+                  "lectures": 1,
+                  "td": false,
+                  "tp": false
+                },
+                {
+                  "name": "Transmissions réseaux et codage d’information",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Algo",
+                  "lectures": 2,
+                  "td": true,
+                  "tp": false
+                },
+                {
+                  "name": "Electronique analogique",
+                  "lectures": 1,
+                  "td": true,
+                  "tp": true
+                },
+                {
+                  "name": "Utilisation et administration des systèmes d’exploitation",
+                  "lectures": 2,
+                  "td": false,
+                  "tp": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Amphi A",
+      "availability": ["jeudi", "mardi", "lundi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi B",
+      "availability": ["mardi", "jeudi", "mercredi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi C",
+      "availability": ["lundi","samedi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi D",
+      "availability": ["lundi", "jeudi","dimanche","mercredi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi E",
+      "availability": ["jeudi", "samedi","mercredi","mardi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi F",
+      "availability": ["jeudi", "samedi","jeudi","lundi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi G",
+      "availability": ["mercredi", "dimanche","lundi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi H",
+      "availability": ["samedi", "jeudi","dimanche"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi I",
+      "availability": ["jeudi", "mercredi","mardi","lundi","dimanche","samedi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi J",
+      "availability": ["mercredi", "jeudi","samedi","lundi","dimanche","mardi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Amphi K",
+      "availability": ["mardi", "samedi","mercredi","dimanche","dimanche","lundi"],
+      "type": "Lecture"
+    },
+    {
+      "name": "Lab 121",
+      "availability": ["lundi", "mercredi", "dimanche"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 122",
+      "availability": ["jeudi", "mercredi", "mardi"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 123",
+      "availability": ["mardi", "samedi","mercredi","dimanche","dimanche","lundi"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 124",
+      "availability": ["mercredi","dimanche","dimanche","lundi"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 125",
+      "availability": ["mercredi","dimanche","dimanche"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 126",
+      "availability": ["mardi", "samedi","mercredi","dimanche","dimanche","lundi"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 127",
+      "availability": ["samedi","mercredi","dimanche","dimanche"],
+      "type": "TP"
+    },
+    {
+      "name": "Lab 128",
+      "availability": ["mardi", "samedi","dimanche","dimanche","lundi"],
+      "type": "TP"
+    },
+    {
+      "name": "Salle 150",
+      "availability": ["mercredi","dimanche","samedi"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 152",
+      "availability": ["mardi", "samedi","mercredi","dimanche","dimanche","lundi"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 154",
+      "availability": ["samedi","mardi","mercredi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 156",
+      "availability": ["samedi","mardi","mercredi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 158",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 160",
+      "availability": ["samedi","mardi","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 162",
+      "availability": ["mercredi","dimanche","dimanche","lundi"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 164",
+      "availability": ["mercredi","dimanche","dimanche","lundi"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 166",
+      "availability": ["mercredi","samedi","mardi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 168",
+      "availability": ["dimanche","mercredi","samedi","mardi"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 170",
+      "availability": ["mercredi","dimanche","dimanche","lundi"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 172",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 174",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 176",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 178",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 180",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 182",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    },
+    {
+      "name": "Salle 184",
+      "availability": ["mercredi","samedi","mardi","dimanche","lundi","dimanche"],
+      "type": "TD"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Dr. Alice Johnson",
+      "modules": [
+        {"name": "Algo", "priority": 1},
+        {"name": "Analyse", "priority": 2},
+        {"name": "ISE", "priority": 3},
+        {"name": "THG", "priority": 4}
+      ],
+      "availability": ["lundi", "dimanche","mardi","samedi"]
+    },
+    {
+      "name": "Hakim",
+      "modules": [
+        {"name": "Analyse", "priority": 1},
+        {"name": "Advanced Calculus", "priority": 2},
+        {"name": "ALGEBRE", "priority": 3},
+        {"name": "Analyse NUMERIQUE", "priority": 4}
+      ],
+      "availability": ["lundi", "dimanche","mardi","samedi"]
+    },
+    {
+      "name": "Dr. Ghazi Oussama Soheib",
+      "modules": [
+        {"name": "AI", "priority": 1},
+        {"name": "Analyse NUMERIQUE" , "priority": 2},
+        {"name": "ISE", "priority": 3},
+        {"name": "SYS", "priority": 4}
+      ],
+      "availability": ["lundi", "dimanche","mardi","jeudi","samedi"]
+    },
+    {
+      "name": "Dr. Garici Tarek",
+      "modules": [
+        {"name": "Analyse", "priority": 3},
+        {"name": "Advanced Calculus", "priority": 1},
+        {"name": "LOGIQUE", "priority": 2}
+      ],
+      "availability": ["lundi", "mercredi","jeudi","samedi"]
+    },
+    {
+      "name": "Dr. Mezghenna Mohanned",
+      "modules": [
+        {"name": "COMPLEXITE", "priority": 3},
+        {"name": "POO", "priority": 1},
+        {"name": "RESEAUX", "priority": 2}
+      ],
+      "availability": ["samedi", "dimanche","mardi"]
+    },
+    {
+      "name": "Dr. Smali Cherif",
+      "modules": [
+        {"name": "Algo", "priority": 3},
+        {"name": "THG", "priority": 1},
+        {"name": "GL", "priority": 2}
+      ],
+      "availability": ["lundi", "dimanche","dimanche","jeudi"]
+    },
+    {
+      "name": "Prof. Bob Smith",
+      "modules": [
+        {"name": "ISE", "priority": 1},
+        {"name": "Algo", "priority": 2},
+        {"name": "Analyse", "priority": 3},
+        {"name": "ARCHI", "priority": 4}
+      ],
+      "availability": ["mardi","jeudi","dimanche"]
+    },
+    {
+      "name": "Dr. Carol Lee",
+      "modules": [
+        {"name": "Analyse", "priority": 1},
+        {"name": "ALGEBRE", "priority": 2}
+      ],
+      "availability": ["lundi", "mardi", "mercredi", "jeudi"]
+    },
+    {
+      "name": "Dr. Droul Nesrine Ilhem",
+      "modules": [
+        {"name": "Game Theory", "priority": 1},
+        {"name": "Risk Management", "priority": 2},
+        {"name": "Advanced Calculus", "priority": 3},
+        {"name": "ARCHI", "priority": 4}
+      ],
+      "availability": ["lundi", "mardi","dimanche","samedi","jeudi"]
+    },
+    {
+      "name": "Dr. Laoudi Farid",
+      "modules": [
+        {"name": "RESEAUX", "priority": 3},
+        {"name": "SFSD", "priority": 1},
+        {"name": "Algo", "priority": 2}
+      ],
+      "availability": ["mercredi", "dimanche","mardi"]
+    }
+  ]
+}

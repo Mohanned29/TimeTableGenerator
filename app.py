@@ -10,19 +10,20 @@ def generate_schedule():
         abort(400, "Request body is missing or not in JSON format")
     
     try:
+        years = data.get('years')
         rooms = data.get('rooms')
         teachers = data.get('teachers')
-        years = data.get('years')
 
-        if not rooms or not teachers or not years:
-            abort(400, "Required fields (rooms, teachers, years) are missing")
+        if not years or not rooms or not teachers:
+            abort(400, "Required fields (years, rooms, teachers) are missing")
 
         schedule_manager = ScheduleManager(years, rooms, teachers)
         schedules = schedule_manager.generate_schedules_for_all()
         return jsonify(schedules), 200
     
+    except KeyError as e:
+        return jsonify({"error": f"Missing key in request data: {str(e)}"}), 400
     except Exception as e:
-        app.logger.error(f"Error processing request: {str(e)}")
         return jsonify({"error": f"Internal server error: {str(e)}"}), 500
 
 if __name__ == '__main__':
