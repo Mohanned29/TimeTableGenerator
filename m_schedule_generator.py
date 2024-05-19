@@ -32,7 +32,7 @@ class ScheduleGenerator:
             teacher for teacher in self.teachers
             if any(m['name'].lower() == module_name.lower() for m in teacher['modules']) and day in teacher['availability']
         ]
-        random.shuffle(qualified_teachers)  # Shuffle to introduce randomness
+        random.shuffle(qualified_teachers)
         for teacher in qualified_teachers:
             if any(self.teacher_commitments[teacher['name']][day]):
                 return teacher['name']
@@ -43,7 +43,7 @@ class ScheduleGenerator:
             room for room in self.rooms
             if room['type'].lower() == session_type.lower() and day in room['availability']
         ]
-        random.shuffle(suitable_rooms)  # Shuffle to introduce randomness
+        random.shuffle(suitable_rooms)
         for room in suitable_rooms:
             if any(self.room_availability[room['name']][day]):
                 return room['name']

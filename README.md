@@ -2,7 +2,7 @@
 
 ## System Architecture Overview
 
-![Alt text](UML.png)
+![Alt text](UML2.0.png)
 
 Ce projet est une solution de planification avancée spécialement conçue pour la Faculté d'Informatique. Ce projet vise à automatiser et à rationaliser la création des emplois du temps, répondant aux défis spécifiques de planification rencontrés par les établissements académiques.
 
