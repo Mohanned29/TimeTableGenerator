@@ -1,139 +1,137 @@
-# Schedule Generator System
+# Système de Génération d'Emploi du Temps
 
-## System Architecture Overview
+## Vue d'ensemble de l'Architecture Système
 
-![Alt text](UML2.0.png)
+![Texte alternatif](UML2.0.png)
 
 Ce projet est une solution de planification avancée spécialement conçue pour la Faculté d'Informatique. Ce projet vise à automatiser et à rationaliser la création des emplois du temps, répondant aux défis spécifiques de planification rencontrés par les établissements académiques.
 
-The scheduling system is designed to manage and generate schedules for various academic sections within an institution. It utilizes several classes and methods interconnected to efficiently allocate rooms, teachers, and time slots for courses as specified in the JSON configuration.
+Le système de planification est conçu pour gérer et générer des emplois du temps pour diverses sections académiques au sein d'une institution. Il utilise plusieurs classes et méthodes interconnectées pour allouer efficacement des salles, des enseignants et des créneaux horaires pour les cours, tels que spécifiés dans la configuration JSON.
 
-## Module: m_schedule_generator.py
+## Module : m_schedule_generator.py
 
-### I) Class: ScheduleGenerator
+### I) Classe : ScheduleGenerator
 
-This class encapsulates the logic for generating schedules for a specific section.
+Cette classe encapsule la logique de génération des emplois du temps pour une section spécifique.
 
-#### Attributes
+#### Attributs
 
-- **year:** The academic year for which the schedule is being generated.
-- **section:** The academic section for which the schedule is being generated.
-- **rooms:** List of available rooms for scheduling.
-- **teachers:** List of available teachers including their teaching modules and availability.
-- **schedule:** List that stores the generated schedule entries.
-- **assigned_lectures:** Set that keeps track of already assigned lectures to avoid duplication.
-- **assigned_group_sessions:** Set to track sessions assigned to specific groups to prevent overlap.
-- **teacher_commitments:** Dictionary to track when and where each teacher is already scheduled.
-- **room_availability:** Dictionary to track room availability.
-- **time_slots:** Dictionary of available time slots for scheduling sessions.
+- **year :** L'année académique pour laquelle l'emploi du temps est généré.
+- **section :** La section académique pour laquelle l'emploi du temps est généré.
+- **rooms :** Liste des salles disponibles pour la planification.
+- **teachers :** Liste des enseignants disponibles, y compris leurs modules d'enseignement et leur disponibilité.
+- **schedule :** Liste qui stocke les entrées de l'emploi du temps généré.
+- **assigned_lectures :** Ensemble qui garde une trace des conférences déjà attribuées pour éviter les doublons.
+- **assigned_group_sessions :** Ensemble pour suivre les sessions attribuées à des groupes spécifiques afin de prévenir les chevauchements.
+- **teacher_commitments :** Dictionnaire pour suivre quand et où chaque enseignant est déjà planifié.
+- **room_availability :** Dictionnaire pour suivre la disponibilité des salles.
+- **time_slots :** Dictionnaire des créneaux horaires disponibles pour la planification des sessions.
 
-#### Methods
+#### Méthodes
 
 1. **init_availability()**
-   - **Purpose:** Initializes the availability for rooms and teachers.
-   - **Explanation:** Sets up the availability for each room and teacher for all days of the week.
+   - **Objectif :** Initialise la disponibilité des salles et des enseignants.
+   - **Explication :** Configure la disponibilité de chaque salle et enseignant pour tous les jours de la semaine.
 
 2. **find_suitable_teacher(module_name, day)**
-   - **Purpose:** Finds a suitable teacher for a given module on a specific day.
-   - **Parameters:**
-     - **module_name:** The name of the module.
-     - **day:** The day for which a teacher is needed.
-   - **Returns:** The name of a suitable teacher, or None if no teacher is available.
+   - **Objectif :** Trouve un enseignant approprié pour un module donné un jour spécifique.
+   - **Paramètres :**
+     - **module_name :** Le nom du module.
+     - **day :** Le jour pour lequel un enseignant est nécessaire.
+   - **Retourne :** Le nom d'un enseignant approprié, ou None si aucun enseignant n'est disponible.
 
 3. **find_available_room(session_type, day)**
-   - **Purpose:** Finds an available room for a session type on a specific day.
-   - **Parameters:**
-     - **session_type:** The type of session (Lecture, TD, TP).
-     - **day:** The day for which a room is needed.
-   - **Returns:** The name of an available room, or None if no room is available.
+   - **Objectif :** Trouve une salle disponible pour un type de session un jour spécifique.
+   - **Paramètres :**
+     - **session_type :** Le type de session (Conférence, TD, TP).
+     - **day :** Le jour pour lequel une salle est nécessaire.
+   - **Retourne :** Le nom d'une salle disponible, ou None si aucune salle n'est disponible.
 
 4. **assign_session(group, module, session_type, day)**
-   - **Purpose:** Assigns a session to a group, module, and day, ensuring room and teacher availability.
-   - **Parameters:**
-     - **group:** The group for which the session is being assigned.
-     - **module:** The module for which the session is being assigned.
-     - **session_type:** The type of session (Lecture, TD, TP).
-     - **day:** The day of the session.
-   - **Explanation:** Checks room and teacher availability and assigns the session if possible.
+   - **Objectif :** Assigne une session à un groupe, un module et un jour, en assurant la disponibilité des salles et des enseignants.
+   - **Paramètres :**
+     - **group :** Le groupe pour lequel la session est attribuée.
+     - **module :** Le module pour lequel la session est attribuée.
+     - **session_type :** Le type de session (Conférence, TD, TP).
+     - **day :** Le jour de la session.
+   - **Explication :** Vérifie la disponibilité des salles et des enseignants et assigne la session si possible.
 
 5. **is_slot_available(slot, day)**
-   - **Purpose:** Checks if a specific slot is available for any room and teacher on the given day.
-   - **Parameters:**
-     - **slot:** The time slot being checked.
-     - **day:** The day being checked.
-   - **Returns:** True if the slot is available, otherwise False.
+   - **Objectif :** Vérifie si un créneau spécifique est disponible pour une salle et un enseignant le jour donné.
+   - **Paramètres :**
+     - **slot :** Le créneau horaire vérifié.
+     - **day :** Le jour vérifié.
+   - **Retourne :** True si le créneau est disponible, sinon False.
 
 6. **update_availability(room_name, teacher_name, day, slot)**
-   - **Purpose:** Updates the availability of a room and teacher for a specific slot and day.
-   - **Parameters:**
-     - **room_name:** The name of the room.
-     - **teacher_name:** The name of the teacher.
-     - **day:** The day of the session.
-     - **slot:** The time slot of the session.
+   - **Objectif :** Met à jour la disponibilité d'une salle et d'un enseignant pour un créneau et un jour spécifiques.
+   - **Paramètres :**
+     - **room_name :** Le nom de la salle.
+     - **teacher_name :** Le nom de l'enseignant.
+     - **day :** Le jour de la session.
+     - **slot :** Le créneau horaire de la session.
 
 7. **generate_schedule()**
-   - **Purpose:** Generates the complete schedule for all modules in the section.
-   - **Returns:** The generated schedule.
-   - **Explanation:** Iterates through all module groups in the section and schedules lectures, TDs, and TPs for each module using the respective scheduling methods.
+   - **Objectif :** Génère l'emploi du temps complet pour tous les modules de la section.
+   - **Retourne :** L'emploi du temps généré.
+   - **Explication :** Itère à travers tous les groupes de modules dans la section et planifie les conférences, TD et TP pour chaque module en utilisant les méthodes de planification respectives.
 
-## Module: schedule_manager.py
+## Module : schedule_manager.py
 
-### II) Class: ScheduleManager
+### II) Classe : ScheduleManager
 
-This class manages the generation of schedules for multiple sections.
+Cette classe gère la génération des emplois du temps pour plusieurs sections.
 
-#### Attributes
+#### Attributs
 
-- **years:** Contains information about all the academic years and their respective sections.
-- **rooms:** Holds data about available rooms where sessions can be scheduled.
-- **teachers:** Stores information about teachers available to conduct sessions.
+- **years :** Contient des informations sur toutes les années académiques et leurs sections respectives.
+- **rooms :** Contient des données sur les salles disponibles où les sessions peuvent être planifiées.
+- **teachers :** Stocke les informations sur les enseignants disponibles pour mener des sessions.
 
-#### Methods
+#### Méthodes
 
 - **__init__(self, years, rooms, teachers)**
-   - **Purpose:** Initializes the ScheduleManager with years, rooms, and teachers.
-   - **Parameters:**
-     - **years:** Dictionary containing academic years and their respective sections.
-     - **rooms:** List of available rooms for scheduling.
-     - **teachers:** List of available teachers including their teaching modules and availability.
+   - **Objectif :** Initialise le ScheduleManager avec les années, les salles et les enseignants.
+   - **Paramètres :**
+     - **years :** Dictionnaire contenant les années académiques et leurs sections respectives.
+     - **rooms :** Liste des salles disponibles pour la planification.
+     - **teachers :** Liste des enseignants disponibles, y compris leurs modules d'enseignement et leur disponibilité.
 
 - **generate_schedules_for_all(self)**
-   - **Purpose:** Generates schedules for all sections by creating a ScheduleGenerator instance for each section and generating schedules using the provided rooms and teachers.
-   - **Returns:** A list of generated schedules for all years and sections.
-   - **Explanation:** 
-     - Iterates through each year and section, generates schedules using ScheduleGenerator, and compiles them into a final schedule.
-     - For each year, iterates through the specialities and their sections, creating a ScheduleGenerator instance for each section.
-     - Generates the schedule for each section, adding the generated schedule to the respective section's information.
-     - Compiles the schedules for all sections into the final schedule for each year.
+   - **Objectif :** Génère les emplois du temps pour toutes les sections en créant une instance de ScheduleGenerator pour chaque section et en générant des emplois du temps en utilisant les salles et les enseignants fournis.
+   - **Retourne :** Une liste des emplois du temps générés pour toutes les années et sections.
+   - **Explication :** 
+     - Itère à travers chaque année et section, génère des emplois du temps en utilisant ScheduleGenerator, et les compile dans un emploi du temps final.
+     - Pour chaque année, itère à travers les spécialités et leurs sections, créant une instance de ScheduleGenerator pour chaque section.
+     - Génère l'emploi du temps pour chaque section, ajoutant l'emploi du temps généré aux informations de la section respective.
+     - Compile les emplois du temps pour toutes les sections dans l'emploi du temps final pour chaque année.
 
+## Interaction des Composants
 
+1. **Configuration JSON :** Contient toutes les données nécessaires sur les sections, les modules, les enseignants et les salles. Ces données servent de fondation pour les opérations de planification.
+2. **Classe ScheduleManager :** Agit comme l'unité de contrôle central qui gère la planification pour toutes les sections en utilisant les instances de ScheduleGenerator. Elle accède aux ressources globales telles que la disponibilité des salles et des enseignants et coordonne les activités de planification entre les différentes sections pour éviter les conflits.
+3. **Classe ScheduleGenerator :** Responsable de la génération de l'emploi du temps pour une section spécifique. Elle interagit avec les couches de données pour récupérer la disponibilité des enseignants et les horaires des salles. Cette classe contient plusieurs méthodes pour gérer les différentes tâches de planification.
+4. **Interaction avec la Couche de Données :** ScheduleManager et ScheduleGenerator interagissent fortement avec les données configurées en JSON pour récupérer et mettre à jour les informations de planification. Cela inclut la vérification de la disponibilité des salles et des enseignants et la mise à jour des emplois du temps au fur et à mesure que les sessions sont attribuées.
+5. **Méthodes Utilitaires :** Des méthodes comme find_suitable_teacher et find_available_room fournissent un support utilitaire en vérifiant des conditions spécifiques qui influencent les décisions de planification, assurant qu'il n'y a pas de chevauchements ou de conflits dans les emplois du temps.
+6. **Flux d'Exécution :** Le système démarre en créant une instance de ScheduleManager. ScheduleManager itère ensuite à travers chaque section et crée une instance de ScheduleGenerator pour chacune d'elles. ScheduleGenerator utilise ses méthodes pour générer un emploi du temps complet pour sa section en fonction des données disponibles et des contraintes. Les résultats sont compilés dans l'emploi du temps final pour toutes les sections et peuvent être traités ou affichés.
 
-## Components Interaction
+## Intégration avec l'Application Flask
 
-1. **JSON Configuration:** Holds all the necessary data about sections, modules, teachers, and rooms. This data acts as the foundation for the scheduling operations.
-2. **ScheduleManager Class:** Acts as the central control unit that manages the scheduling for all sections using the ScheduleGenerator instances. It accesses global resources like room and teacher availability and coordinates the scheduling activities across different sections to avoid conflicts.
-3. **ScheduleGenerator Class:** Responsible for generating the schedule for a specific section. It interacts with the data layers to fetch teacher availability and room schedules. This class contains multiple methods to handle different scheduling tasks.
-4. **Data Layer Interaction:** Both ScheduleManager and ScheduleGenerator interact heavily with the JSON-configured data to retrieve and update scheduling information. This includes checking the availability of rooms and teachers and updating schedules as sessions are assigned.
-5. **Utility Methods:** Methods like find_suitable_teacher and find_available_room provide utility support by checking specific conditions that affect the scheduling decisions, ensuring that no overlaps or conflicts occur in the schedules.
-6. **Execution Flow:** The system initiates by creating an instance of ScheduleManager. ScheduleManager then iterates through each section and creates an instance of ScheduleGenerator for each. ScheduleGenerator uses its methods to generate a complete schedule for its section based on the available data and constraints. Results are compiled into the final schedule for all sections and can be further processed or displayed.
+Le système de planification utilise une application web Flask pour fournir une interface conviviale permettant de gérer et de visualiser les emplois du temps générés. Flask est un framework web léger particulièrement bien adapté aux petites et moyennes applications web comme ce système de planification.
 
-## Flask Application Integration
+### Structure de l'Application Flask
 
-The scheduling system utilizes a Flask web application to provide a user-friendly interface for managing and viewing the generated schedules. Flask is a lightweight web framework that is particularly well-suited for small to medium web applications like this scheduling system.
+- **app.py :** C'est le fichier principal qui contient la configuration de l'application Flask, les routes et la logique du serveur.
 
-### Structure of the Flask Application
+### Fonctionnalités Clés
 
-- **app.py:** This is the main file that contains the Flask application setup, routes, and server logic.
+- **Interface Utilisateur :** Fournit une interface interactive et facile à naviguer pour les utilisateurs afin de visualiser et de gérer les emplois du temps.
+- **Points de Terminaison API :** Les routes Flask gèrent les requêtes pour générer, mettre à jour ou récupérer des emplois du temps, en interfaçant avec le backend du système de planification.
+- **Visualisation des Données :** Intègre des outils pour visualiser les emplois du temps sous forme de calendrier afin de faciliter la compréhension et la gestion.
 
-### Key Features
+### Mise en Route
 
-- **User Interface:** Provides an interactive and easy-to-navigate interface for users to view and manage the schedules.
-- **API Endpoints:** Flask routes handle requests to generate, update, or fetch schedules, interfacing with the scheduling system backend.
-- **Data Visualization:** Integrates tools for visualizing schedules in a calendar view to facilitate easier understanding and management.
+**Pour configurer et exécuter le système de planification :**
 
-### Getting Started
-
-**To set up and run the scheduling system:**
-
-- **Installation:** Ensure Python 3.x is installed along with Flask. Install other dependencies as listed in requirements.txt.
-- **Execution:** Run the Flask application with `python app.py` and utilize the provided API endpoints to interact with the system.
+- **Installation :** Assurez-vous que Python 3.x est installé avec Flask. Installez les autres dépendances listées dans requirements.txt.
+- **Exécution :** Exécutez l'application Flask avec `python app.py` et utilisez les points de terminaison API fournis pour interagir avec le système.
