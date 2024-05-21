@@ -1,4 +1,8 @@
 import random
+import logging
+
+#not used yet , apr sahel
+logging.basicConfig(level=logging.INFO)
 
 class ScheduleGenerator:
     def __init__(self, year, section, rooms, teachers):
@@ -64,10 +68,15 @@ class ScheduleGenerator:
 
 
 
-    def is_slot_conflict(self, section_name, day, slot):
+    def is_slot_conflict(self, section_name, day, slot, session_type, group):
         for session in self.schedule:
-            if (session['day'] == day and session['slot'] == slot and session['section'] == section_name):
-                return True
+            if session['day'] == day and session['slot'] == slot and session['section'] == section_name:
+                if session['session_type'] == 'Lecture':
+                    return True
+                if session['group'] == group:
+                    return True
+                if session['session_type'] in ['TD', 'TP'] and session_type == 'Lecture':
+                    return True
         return False
 
 
@@ -77,7 +86,7 @@ class ScheduleGenerator:
         if not available_slots:
             return
 
-        available_slots = [slot for slot in available_slots if not self.is_slot_conflict(section_name, day, slot)]
+        available_slots = [slot for slot in available_slots if not self.is_slot_conflict(section_name, day, slot, session_type, group)]
         if not available_slots:
             return
 
