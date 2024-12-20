@@ -3,8 +3,8 @@
     {
       "name": "126",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -14,8 +14,8 @@
       "availability": [
         "lundi",
         "mercredi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -23,18 +23,18 @@
       "name": "128",
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "129",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mercredi"
       ],
@@ -43,8 +43,8 @@
     {
       "name": "130",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi",
         "mardi"
       ],
@@ -54,20 +54,20 @@
       "name": "131",
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "132",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi"
       ],
       "type": "TD"
@@ -75,8 +75,8 @@
     {
       "name": "133",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi",
         "lundi",
         "mercredi"
@@ -88,7 +88,7 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -96,8 +96,8 @@
       "name": "135",
       "availability": [
         "mardi",
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -105,10 +105,10 @@
     {
       "name": "136",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "TD"
@@ -116,18 +116,18 @@
     {
       "name": "137",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "138",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "lundi",
         "mardi"
       ],
@@ -136,17 +136,17 @@
     {
       "name": "139",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "140",
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi",
         "mercredi",
         "lundi"
@@ -165,7 +165,7 @@
     {
       "name": "142",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "mardi",
         "lundi"
@@ -175,21 +175,21 @@
     {
       "name": "143",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "144",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mercredi",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -198,7 +198,7 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -209,16 +209,16 @@
         "mardi",
         "mercredi",
         "lundi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "147",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -226,10 +226,10 @@
     {
       "name": "148",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -238,16 +238,16 @@
       "name": "149",
       "availability": [
         "lundi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "150",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -258,7 +258,7 @@
         "mercredi",
         "lundi",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -267,8 +267,8 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -277,17 +277,17 @@
       "availability": [
         "lundi",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "154",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mardi"
       ],
       "type": "TD"
@@ -295,7 +295,7 @@
     {
       "name": "155",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi"
       ],
@@ -304,10 +304,10 @@
     {
       "name": "156",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -315,19 +315,19 @@
     {
       "name": "157",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "158",
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -336,7 +336,7 @@
       "name": "159",
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "lundi"
       ],
       "type": "TD"
@@ -344,7 +344,7 @@
     {
       "name": "160",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mardi"
       ],
@@ -354,8 +354,8 @@
       "name": "161",
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -364,8 +364,8 @@
       "availability": [
         "lundi",
         "mardi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -373,18 +373,18 @@
       "name": "163",
       "availability": [
         "lundi",
-        "jeudi",
-        "samedi",
-        "dimanche"
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "164",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -393,9 +393,9 @@
       "availability": [
         "mercredi",
         "mardi",
-        "samedi",
-        "jeudi",
-        "dimanche"
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -403,9 +403,9 @@
       "name": "166",
       "availability": [
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -415,7 +415,7 @@
         "mardi",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -425,7 +425,7 @@
         "lundi",
         "mardi",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -434,7 +434,7 @@
       "availability": [
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -443,9 +443,9 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -453,9 +453,9 @@
       "name": "171",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -464,7 +464,7 @@
       "name": "172",
       "availability": [
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -472,7 +472,7 @@
     {
       "name": "173",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
         "mercredi"
       ],
@@ -481,21 +481,21 @@
     {
       "name": "174",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "175",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -504,16 +504,16 @@
       "availability": [
         "lundi",
         "mardi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "177",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi",
         "lundi"
       ],
@@ -523,7 +523,7 @@
       "name": "178",
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -531,11 +531,11 @@
     {
       "name": "179",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -543,7 +543,7 @@
       "name": "180",
       "availability": [
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -551,9 +551,9 @@
     {
       "name": "181",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "lundi"
       ],
       "type": "TD"
@@ -563,16 +563,16 @@
       "availability": [
         "mercredi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "183",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -581,7 +581,7 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -589,10 +589,10 @@
     {
       "name": "185",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -600,19 +600,19 @@
       "name": "186",
       "availability": [
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "187",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "mardi"
       ],
       "type": "TD"
@@ -620,9 +620,9 @@
     {
       "name": "188",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -630,8 +630,8 @@
       "name": "189",
       "availability": [
         "lundi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -641,18 +641,18 @@
         "mardi",
         "lundi",
         "mercredi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "191",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -662,7 +662,7 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -671,15 +671,15 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "194",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi",
         "mercredi"
@@ -690,15 +690,15 @@
       "name": "195",
       "availability": [
         "mercredi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "196",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "lundi"
       ],
@@ -707,17 +707,17 @@
     {
       "name": "197",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "198",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mardi",
         "mercredi"
@@ -739,25 +739,25 @@
         "mardi",
         "mercredi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "201",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "202",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi",
         "lundi",
         "mercredi"
@@ -768,7 +768,7 @@
       "name": "203",
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ],
       "type": "TD"
@@ -785,10 +785,10 @@
     {
       "name": "205",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -796,10 +796,10 @@
     {
       "name": "206",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -807,10 +807,10 @@
     {
       "name": "207",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -819,16 +819,16 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "209",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi",
         "lundi",
         "mardi"
@@ -838,8 +838,8 @@
     {
       "name": "210",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mardi",
         "lundi"
       ],
@@ -848,27 +848,27 @@
     {
       "name": "211",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "212",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "213",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mardi",
         "mercredi"
       ],
@@ -877,9 +877,9 @@
     {
       "name": "214",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -888,8 +888,8 @@
       "name": "215",
       "availability": [
         "mercredi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -898,7 +898,7 @@
       "availability": [
         "mercredi",
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ],
       "type": "TD"
@@ -907,18 +907,18 @@
       "name": "217",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "218",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "lundi"
       ],
       "type": "TD"
@@ -926,9 +926,9 @@
     {
       "name": "219",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -938,16 +938,16 @@
         "mardi",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "221",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -955,10 +955,10 @@
     {
       "name": "222",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -967,8 +967,8 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi"
       ],
       "type": "TD"
@@ -976,7 +976,7 @@
     {
       "name": "224",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mardi"
       ],
@@ -986,7 +986,7 @@
       "name": "225",
       "availability": [
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mardi"
       ],
@@ -996,9 +996,9 @@
       "name": "226",
       "availability": [
         "mardi",
-        "dimanche",
-        "jeudi",
-        "samedi"
+        "DIMANCHE",
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -1006,7 +1006,7 @@
       "name": "227",
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ],
       "type": "TD"
@@ -1015,7 +1015,7 @@
       "name": "228",
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ],
       "type": "TD"
@@ -1023,8 +1023,8 @@
     {
       "name": "229",
       "availability": [
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "mercredi",
         "lundi"
       ],
@@ -1034,26 +1034,26 @@
       "name": "230",
       "availability": [
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "231",
       "availability": [
-        "samedi",
-        "dimanche",
-        "jeudi"
+        "SAMEDI",
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "232",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi"
       ],
@@ -1063,9 +1063,9 @@
       "name": "233",
       "availability": [
         "mardi",
-        "jeudi",
-        "samedi",
-        "dimanche"
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1073,10 +1073,10 @@
       "name": "234",
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1085,7 +1085,7 @@
       "availability": [
         "mercredi",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1095,7 +1095,7 @@
         "mercredi",
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -1105,34 +1105,34 @@
         "mercredi",
         "lundi",
         "mardi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "238",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "239",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "240",
       "availability": [
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "lundi"
       ],
       "type": "TD"
@@ -1141,8 +1141,8 @@
       "name": "241",
       "availability": [
         "lundi",
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi",
         "mardi"
       ],
@@ -1153,9 +1153,9 @@
       "availability": [
         "lundi",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1163,15 +1163,15 @@
       "name": "243",
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "244",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "lundi"
       ],
@@ -1180,8 +1180,8 @@
     {
       "name": "245",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1190,9 +1190,9 @@
       "name": "246",
       "availability": [
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1200,10 +1200,10 @@
     {
       "name": "247",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "TD"
@@ -1212,9 +1212,9 @@
       "name": "248",
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -1222,29 +1222,29 @@
     {
       "name": "249",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "250",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "251",
       "availability": [
-        "jeudi",
-        "samedi",
-        "dimanche"
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1253,8 +1253,8 @@
       "availability": [
         "mardi",
         "lundi",
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1262,9 +1262,9 @@
     {
       "name": "253",
       "availability": [
-        "dimanche",
-        "samedi",
-        "jeudi"
+        "DIMANCHE",
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1273,8 +1273,8 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi"
       ],
       "type": "TD"
@@ -1283,9 +1283,9 @@
       "name": "255",
       "availability": [
         "mardi",
-        "samedi",
-        "jeudi",
-        "dimanche",
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -1293,9 +1293,9 @@
     {
       "name": "256",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -1303,9 +1303,9 @@
       "name": "257",
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TD"
@@ -1313,19 +1313,19 @@
     {
       "name": "258",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "259",
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "lundi",
         "mardi"
       ],
@@ -1334,7 +1334,7 @@
     {
       "name": "260",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "lundi"
       ],
@@ -1345,17 +1345,17 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche",
-        "jeudi",
-        "samedi"
+        "DIMANCHE",
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "262",
       "availability": [
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "mardi"
       ],
       "type": "TD"
@@ -1364,31 +1364,31 @@
       "name": "263",
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "264",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "265",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -1397,16 +1397,16 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "267",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "lundi",
         "mardi"
@@ -1417,8 +1417,8 @@
       "name": "268",
       "availability": [
         "mardi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1427,18 +1427,18 @@
       "availability": [
         "lundi",
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "270",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi"
       ],
@@ -1447,10 +1447,10 @@
     {
       "name": "271",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "TD"
@@ -1460,7 +1460,7 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1469,7 +1469,7 @@
       "availability": [
         "mercredi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1477,7 +1477,7 @@
       "name": "274",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1485,9 +1485,9 @@
     {
       "name": "275",
       "availability": [
-        "samedi",
-        "dimanche",
-        "jeudi",
+        "SAMEDI",
+        "DIMANCHE",
+        "JEUDI",
         "mardi"
       ],
       "type": "TD"
@@ -1497,19 +1497,19 @@
       "availability": [
         "lundi",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "277",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1517,7 +1517,7 @@
       "name": "278",
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mardi"
       ],
@@ -1536,18 +1536,18 @@
       "name": "280",
       "availability": [
         "lundi",
-        "dimanche",
-        "jeudi",
-        "samedi"
+        "DIMANCHE",
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "281",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "lundi"
       ],
@@ -1557,7 +1557,7 @@
       "name": "282",
       "availability": [
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mercredi"
       ],
@@ -1566,8 +1566,8 @@
     {
       "name": "283",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi",
         "mardi"
       ],
@@ -1577,9 +1577,9 @@
       "name": "284",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1587,10 +1587,10 @@
       "name": "285",
       "availability": [
         "mardi",
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
@@ -1599,15 +1599,15 @@
       "availability": [
         "lundi",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "287",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi",
         "lundi"
       ],
@@ -1616,8 +1616,8 @@
     {
       "name": "288",
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1625,9 +1625,9 @@
     {
       "name": "289",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -1636,9 +1636,9 @@
       "name": "290",
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mardi"
       ],
       "type": "TD"
@@ -1646,7 +1646,7 @@
     {
       "name": "291",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "lundi",
         "mercredi"
@@ -1657,8 +1657,8 @@
       "name": "292",
       "availability": [
         "mardi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1667,8 +1667,8 @@
       "availability": [
         "lundi",
         "mardi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1678,8 +1678,8 @@
         "mardi",
         "lundi",
         "mercredi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "TD"
     },
@@ -1689,7 +1689,7 @@
         "mercredi",
         "mardi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
@@ -1699,16 +1699,16 @@
         "mardi",
         "lundi",
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "297",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi",
         "lundi"
       ],
@@ -1717,9 +1717,9 @@
     {
       "name": "298",
       "availability": [
-        "samedi",
-        "jeudi",
-        "dimanche",
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE",
         "mardi"
       ],
       "type": "TD"
@@ -1729,15 +1729,15 @@
       "availability": [
         "mercredi",
         "mardi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "300",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "lundi"
       ],
@@ -1746,21 +1746,21 @@
     {
       "name": "301",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "TD"
     },
     {
       "name": "302",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "lundi"
       ],
       "type": "TD"
@@ -1770,24 +1770,24 @@
       "availability": [
         "mardi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "304",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "305",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1795,8 +1795,8 @@
     {
       "name": "306",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mardi"
       ],
       "type": "TD"
@@ -1806,27 +1806,27 @@
       "availability": [
         "mardi",
         "mercredi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TD"
     },
     {
       "name": "308",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "TD"
     },
     {
       "name": "309",
       "availability": [
-        "jeudi",
-        "samedi",
-        "dimanche",
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE",
         "mercredi",
         "mardi"
       ],
@@ -1836,8 +1836,8 @@
       "name": "310",
       "availability": [
         "mardi",
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TD"
@@ -1846,28 +1846,28 @@
       "name": "311",
       "availability": [
         "mardi",
-        "jeudi",
-        "dimanche",
-        "samedi"
+        "JEUDI",
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "312",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "313",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -1884,17 +1884,17 @@
       "name": "315",
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi",
-        "jeudi"
+        "DIMANCHE",
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "316",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -1902,8 +1902,8 @@
     {
       "name": "317",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -1911,10 +1911,10 @@
     {
       "name": "318",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -1923,8 +1923,8 @@
       "name": "319",
       "availability": [
         "mercredi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "Lecture"
     },
@@ -1933,7 +1933,7 @@
       "availability": [
         "mardi",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -1942,7 +1942,7 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -1951,9 +1951,9 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -1962,7 +1962,7 @@
       "availability": [
         "lundi",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -1970,8 +1970,8 @@
       "name": "324",
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "lundi",
         "mardi"
       ],
@@ -1981,7 +1981,7 @@
       "name": "325",
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -1989,21 +1989,21 @@
     {
       "name": "326",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "mercredi",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "327",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2012,8 +2012,8 @@
       "name": "328",
       "availability": [
         "lundi",
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2031,40 +2031,40 @@
       "name": "330",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "331",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "mardi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "332",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "333",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2072,19 +2072,19 @@
     {
       "name": "334",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "335",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi",
         "lundi",
         "mercredi"
@@ -2095,28 +2095,28 @@
       "name": "336",
       "availability": [
         "mardi",
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "337",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "338",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mardi",
         "mercredi"
@@ -2126,10 +2126,10 @@
     {
       "name": "339",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2137,11 +2137,11 @@
     {
       "name": "340",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2149,8 +2149,8 @@
       "name": "341",
       "availability": [
         "mercredi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2158,11 +2158,11 @@
     {
       "name": "342",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2171,9 +2171,9 @@
       "availability": [
         "mardi",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
@@ -2183,8 +2183,8 @@
         "mercredi",
         "lundi",
         "mardi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2200,10 +2200,10 @@
     {
       "name": "346",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
@@ -2213,8 +2213,8 @@
         "lundi",
         "mercredi",
         "mardi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2230,7 +2230,7 @@
     {
       "name": "349",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "mardi"
       ],
@@ -2240,8 +2240,8 @@
       "name": "350",
       "availability": [
         "lundi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2249,9 +2249,9 @@
       "name": "351",
       "availability": [
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ],
       "type": "Lecture"
@@ -2260,19 +2260,19 @@
       "name": "352",
       "availability": [
         "lundi",
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "353",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2280,9 +2280,9 @@
     {
       "name": "354",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ],
       "type": "Lecture"
@@ -2291,18 +2291,18 @@
       "name": "355",
       "availability": [
         "mercredi",
-        "samedi",
-        "jeudi",
-        "dimanche"
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "356",
       "availability": [
-        "dimanche",
-        "samedi",
-        "jeudi",
+        "DIMANCHE",
+        "SAMEDI",
+        "JEUDI",
         "lundi",
         "mercredi"
       ],
@@ -2312,8 +2312,8 @@
       "name": "357",
       "availability": [
         "mardi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2322,8 +2322,8 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2332,18 +2332,18 @@
       "availability": [
         "mardi",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "360",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mardi",
         "mercredi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2352,8 +2352,8 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2361,10 +2361,10 @@
     {
       "name": "362",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2373,10 +2373,10 @@
       "name": "363",
       "availability": [
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2385,8 +2385,8 @@
       "availability": [
         "lundi",
         "mardi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2395,17 +2395,17 @@
       "availability": [
         "lundi",
         "mercredi",
-        "samedi",
-        "jeudi",
-        "dimanche"
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "366",
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mercredi",
         "lundi"
       ],
@@ -2415,7 +2415,7 @@
       "name": "367",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2426,18 +2426,18 @@
         "mardi",
         "lundi",
         "mercredi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "369",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -2447,9 +2447,9 @@
       "availability": [
         "mercredi",
         "lundi",
-        "jeudi",
-        "samedi",
-        "dimanche"
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2457,7 +2457,7 @@
       "name": "126",
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mardi"
       ],
@@ -2467,8 +2467,8 @@
       "name": "127",
       "availability": [
         "mercredi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi"
       ],
       "type": "TP"
@@ -2476,9 +2476,9 @@
     {
       "name": "128",
       "availability": [
-        "samedi",
-        "dimanche",
-        "jeudi",
+        "SAMEDI",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TP"
@@ -2486,17 +2486,17 @@
     {
       "name": "129",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TP"
     },
     {
       "name": "130",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mardi",
         "mercredi"
@@ -2506,7 +2506,7 @@
     {
       "name": "131",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi"
       ],
@@ -2516,16 +2516,16 @@
       "name": "132",
       "availability": [
         "mercredi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ],
       "type": "TP"
     },
     {
       "name": "C1",
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TP"
@@ -2533,7 +2533,7 @@
     {
       "name": "C2",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
         "mercredi"
       ],
@@ -2543,7 +2543,7 @@
       "name": "C3",
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "TP"
@@ -2552,10 +2552,10 @@
       "name": "C4",
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "TP"
     },
@@ -2563,7 +2563,7 @@
       "name": "C5",
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi"
       ],
       "type": "TP"
@@ -2571,18 +2571,18 @@
     {
       "name": "C6",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "TP"
     },
     {
       "name": "C7",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mardi",
         "mercredi"
       ],
@@ -2593,8 +2593,8 @@
       "availability": [
         "lundi",
         "mardi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "TP"
     },
@@ -2602,19 +2602,19 @@
       "name": "Amphi A",
       "availability": [
         "lundi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "Amphi B",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -2622,7 +2622,7 @@
       "name": "Amphi C",
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2631,9 +2631,9 @@
       "name": "Amphi D",
       "availability": [
         "mardi",
-        "jeudi",
-        "dimanche",
-        "samedi",
+        "JEUDI",
+        "DIMANCHE",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -2641,11 +2641,11 @@
     {
       "name": "Amphi E",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mercredi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "Lecture"
     },
@@ -2653,7 +2653,7 @@
       "name": "Amphi F",
       "availability": [
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi",
         "mercredi"
       ],
@@ -2662,11 +2662,11 @@
     {
       "name": "Amphi G",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "mercredi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "Lecture"
     },
@@ -2675,27 +2675,27 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche",
-        "jeudi",
-        "samedi"
+        "DIMANCHE",
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "Amphi I",
       "availability": [
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "lundi",
         "mercredi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "Amphi J",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "lundi",
         "mardi"
@@ -2707,9 +2707,9 @@
       "availability": [
         "mercredi",
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2725,9 +2725,9 @@
     {
       "name": "Amphi M",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -2737,8 +2737,8 @@
       "availability": [
         "mardi",
         "mercredi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -2748,7 +2748,7 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2756,18 +2756,18 @@
       "name": "Amphi P",
       "availability": [
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "Amphi Q",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "mardi",
         "lundi"
       ],
@@ -2777,17 +2777,17 @@
       "name": "Amphi R",
       "availability": [
         "mercredi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "Amphi S",
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -2795,9 +2795,9 @@
     {
       "name": "Amphi T",
       "availability": [
-        "jeudi",
-        "samedi",
-        "dimanche",
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE",
         "lundi",
         "mardi"
       ],
@@ -2806,9 +2806,9 @@
     {
       "name": "Amphi U",
       "availability": [
-        "dimanche",
-        "jeudi",
-        "samedi",
+        "DIMANCHE",
+        "JEUDI",
+        "SAMEDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2817,8 +2817,8 @@
       "name": "Amphi V",
       "availability": [
         "mercredi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2826,9 +2826,9 @@
       "name": "Amphi W",
       "availability": [
         "lundi",
-        "samedi",
-        "dimanche",
-        "jeudi",
+        "SAMEDI",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2836,9 +2836,9 @@
     {
       "name": "Amphi X",
       "availability": [
-        "jeudi",
-        "dimanche",
-        "samedi",
+        "JEUDI",
+        "DIMANCHE",
+        "SAMEDI",
         "mercredi",
         "lundi"
       ],
@@ -2847,9 +2847,9 @@
     {
       "name": "Amphi Y",
       "availability": [
-        "samedi",
-        "jeudi",
-        "dimanche"
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2858,14 +2858,14 @@
       "availability": [
         "mardi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "R1",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi"
       ],
@@ -2874,11 +2874,11 @@
     {
       "name": "E1",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2886,8 +2886,8 @@
       "name": "D1",
       "availability": [
         "mardi",
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "lundi",
         "mercredi"
       ],
@@ -2897,7 +2897,7 @@
       "name": "R2",
       "availability": [
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "lundi"
       ],
@@ -2906,10 +2906,10 @@
     {
       "name": "E2",
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
@@ -2917,19 +2917,19 @@
       "name": "D2",
       "availability": [
         "mercredi",
-        "jeudi",
-        "samedi",
-        "dimanche"
+        "JEUDI",
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "R3",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2937,10 +2937,10 @@
       "name": "E3",
       "availability": [
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "mardi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
@@ -2948,7 +2948,7 @@
       "name": "D3",
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi"
       ],
@@ -2958,18 +2958,18 @@
       "name": "R4",
       "availability": [
         "mercredi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "E4",
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -2977,18 +2977,18 @@
     {
       "name": "D4",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "R5",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ],
       "type": "Lecture"
@@ -2996,8 +2996,8 @@
     {
       "name": "E5",
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi",
         "mercredi"
       ],
@@ -3007,8 +3007,8 @@
       "name": "D5",
       "availability": [
         "mardi",
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "Lecture"
@@ -3018,18 +3018,18 @@
       "availability": [
         "lundi",
         "mardi",
-        "dimanche",
-        "samedi",
-        "jeudi"
+        "DIMANCHE",
+        "SAMEDI",
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "E6",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -3037,7 +3037,7 @@
     {
       "name": "D6",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mercredi",
         "mardi"
@@ -3048,9 +3048,9 @@
       "name": "R7",
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi",
-        "jeudi",
+        "DIMANCHE",
+        "SAMEDI",
+        "JEUDI",
         "mardi"
       ],
       "type": "Lecture"
@@ -3058,10 +3058,10 @@
     {
       "name": "E7",
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi"
       ],
       "type": "Lecture"
@@ -3070,7 +3070,7 @@
       "name": "D7",
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "mercredi"
       ],
@@ -3081,8 +3081,8 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ],
       "type": "Lecture"
     },
@@ -3091,17 +3091,17 @@
       "availability": [
         "mardi",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ],
       "type": "Lecture"
     },
     {
       "name": "D8",
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi"
       ],
       "type": "Lecture"
@@ -3109,17 +3109,17 @@
     {
       "name": "R9",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "E9",
       "availability": [
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "mercredi"
       ],
       "type": "Lecture"
@@ -3127,17 +3127,17 @@
     {
       "name": "D9",
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ],
       "type": "Lecture"
     },
     {
       "name": "101",
       "availability": [
-        "Mercredi",
-        "Jeudi"
+        "mercredi",
+        "JEUDI"
       ],
       "type": "TP"
     }
@@ -3164,9 +3164,9 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -3189,8 +3189,8 @@
       "availability": [
         "mardi",
         "mercredi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -3214,8 +3214,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -3240,8 +3240,8 @@
       ],
       "availability": [
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ]
     },
     {
@@ -3266,7 +3266,7 @@
       ],
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "lundi"
       ]
     },
@@ -3289,7 +3289,7 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -3314,8 +3314,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -3339,8 +3339,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ]
     },
     {
@@ -3364,7 +3364,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi"
       ]
@@ -3408,8 +3408,8 @@
       ],
       "availability": [
         "mercredi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -3433,7 +3433,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -3458,8 +3458,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "dimanche",
+        "SAMEDI",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -3484,10 +3484,10 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ]
     },
     {
@@ -3507,7 +3507,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "lundi"
       ]
@@ -3558,7 +3558,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -3580,7 +3580,7 @@
       ],
       "availability": [
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -3601,7 +3601,7 @@
       ],
       "availability": [
         "mardi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -3622,8 +3622,8 @@
       ],
       "availability": [
         "mardi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi"
       ]
     },
@@ -3648,7 +3648,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -3674,9 +3674,9 @@
       ],
       "availability": [
         "mardi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -3696,10 +3696,10 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -3719,7 +3719,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -3740,8 +3740,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mardi",
         "lundi"
       ]
@@ -3767,10 +3767,10 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ]
     },
     {
@@ -3794,8 +3794,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ]
     },
     {
@@ -3815,9 +3815,9 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -3838,7 +3838,7 @@
       ],
       "availability": [
         "lundi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -3859,8 +3859,8 @@
       ],
       "availability": [
         "lundi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mercredi"
       ]
     },
@@ -3881,7 +3881,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ]
     },
@@ -3906,7 +3906,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
         "lundi"
       ]
@@ -3930,8 +3930,8 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -3955,7 +3955,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "lundi",
         "mercredi"
@@ -3980,7 +3980,7 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -4000,7 +4000,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "lundi",
         "mardi"
@@ -4024,8 +4024,8 @@
       ],
       "availability": [
         "mercredi",
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -4050,7 +4050,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ]
     },
@@ -4072,9 +4072,9 @@
       ],
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -4099,7 +4099,7 @@
       ],
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -4124,7 +4124,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi"
       ]
     },
@@ -4151,8 +4151,8 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ]
     },
     {
@@ -4176,9 +4176,9 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "dimanche",
-        "samedi",
+        "JEUDI",
+        "DIMANCHE",
+        "SAMEDI",
         "mercredi"
       ]
     },
@@ -4203,8 +4203,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -4225,7 +4225,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi"
       ]
     },
@@ -4246,8 +4246,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mardi",
         "lundi"
       ]
@@ -4274,9 +4274,9 @@
       ],
       "availability": [
         "mercredi",
-        "jeudi",
-        "dimanche",
-        "samedi"
+        "JEUDI",
+        "DIMANCHE",
+        "SAMEDI"
       ]
     },
     {
@@ -4297,7 +4297,7 @@
       ],
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -4319,9 +4319,9 @@
       ],
       "availability": [
         "mardi",
-        "samedi",
-        "jeudi",
-        "dimanche"
+        "SAMEDI",
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -4341,8 +4341,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mercredi",
         "mardi"
       ]
@@ -4369,8 +4369,8 @@
       ],
       "availability": [
         "lundi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -4394,10 +4394,10 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "mardi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -4421,7 +4421,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -4446,9 +4446,9 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mercredi",
-        "jeudi",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -4473,9 +4473,9 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -4495,7 +4495,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi"
       ]
     },
@@ -4520,10 +4520,10 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -4547,7 +4547,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "lundi",
         "mardi"
@@ -4576,8 +4576,8 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ]
     },
     {
@@ -4601,9 +4601,9 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -4623,10 +4623,10 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -4668,8 +4668,8 @@
       ],
       "availability": [
         "lundi",
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ]
     },
     {
@@ -4693,8 +4693,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ]
     },
     {
@@ -4718,9 +4718,9 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -4746,7 +4746,7 @@
       ],
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -4768,8 +4768,8 @@
       ],
       "availability": [
         "mercredi",
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "lundi"
       ]
     },
@@ -4794,8 +4794,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mercredi"
       ]
     },
@@ -4822,8 +4822,8 @@
       "availability": [
         "mercredi",
         "lundi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -4843,8 +4843,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ]
     },
     {
@@ -4864,7 +4864,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -4886,7 +4886,7 @@
       ],
       "availability": [
         "mardi",
-        "jeudi",
+        "JEUDI",
         "mercredi"
       ]
     },
@@ -4914,7 +4914,7 @@
         "mardi",
         "lundi",
         "mercredi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -4939,8 +4939,8 @@
       ],
       "availability": [
         "mardi",
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ]
     },
     {
@@ -4966,8 +4966,8 @@
       "availability": [
         "lundi",
         "mercredi",
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ]
     },
     {
@@ -4993,7 +4993,7 @@
       "availability": [
         "mercredi",
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -5018,7 +5018,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "lundi"
       ]
     },
@@ -5044,9 +5044,9 @@
       ],
       "availability": [
         "mercredi",
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5066,8 +5066,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -5087,10 +5087,10 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5112,7 +5112,7 @@
       "availability": [
         "lundi",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5132,7 +5132,7 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -5153,8 +5153,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "samedi"
+        "DIMANCHE",
+        "SAMEDI"
       ]
     },
     {
@@ -5176,8 +5176,8 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -5201,7 +5201,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
         "mercredi",
         "lundi"
@@ -5224,7 +5224,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ]
     },
@@ -5245,10 +5245,10 @@
         }
       ],
       "availability": [
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -5272,7 +5272,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ]
     },
@@ -5295,8 +5295,8 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ]
     },
     {
@@ -5321,7 +5321,7 @@
       ],
       "availability": [
         "mardi",
-        "samedi",
+        "SAMEDI",
         "mercredi"
       ]
     },
@@ -5367,8 +5367,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "jeudi"
+        "SAMEDI",
+        "JEUDI"
       ]
     },
     {
@@ -5413,7 +5413,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "lundi"
       ]
@@ -5436,7 +5436,7 @@
       ],
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -5462,7 +5462,7 @@
       ],
       "availability": [
         "lundi",
-        "samedi",
+        "SAMEDI",
         "mardi"
       ]
     },
@@ -5487,8 +5487,8 @@
         }
       ],
       "availability": [
-        "samedi",
-        "jeudi",
+        "SAMEDI",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -5514,7 +5514,7 @@
       ],
       "availability": [
         "lundi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5534,8 +5534,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -5556,9 +5556,9 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5584,8 +5584,8 @@
       "availability": [
         "mercredi",
         "mardi",
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -5610,7 +5610,7 @@
       ],
       "availability": [
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mercredi"
       ]
     },
@@ -5635,8 +5635,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "dimanche",
+        "JEUDI",
+        "DIMANCHE",
         "mercredi"
       ]
     },
@@ -5658,7 +5658,7 @@
       ],
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
         "mardi"
       ]
@@ -5684,10 +5684,10 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "samedi",
+        "DIMANCHE",
+        "SAMEDI",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5708,7 +5708,7 @@
       ],
       "availability": [
         "lundi",
-        "jeudi",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -5733,9 +5733,9 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -5756,7 +5756,7 @@
       ],
       "availability": [
         "lundi",
-        "dimanche"
+        "DIMANCHE"
       ]
     },
     {
@@ -5780,8 +5780,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "samedi",
+        "JEUDI",
+        "SAMEDI",
         "mercredi",
         "mardi"
       ]
@@ -5809,7 +5809,7 @@
       "availability": [
         "mercredi",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -5876,8 +5876,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "dimanche"
+        "JEUDI",
+        "DIMANCHE"
       ]
     },
     {
@@ -5901,9 +5901,9 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5928,7 +5928,7 @@
       ],
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
         "lundi"
       ]
@@ -5951,9 +5951,9 @@
       ],
       "availability": [
         "mardi",
-        "samedi",
-        "dimanche",
-        "jeudi"
+        "SAMEDI",
+        "DIMANCHE",
+        "JEUDI"
       ]
     },
     {
@@ -5974,9 +5974,9 @@
       ],
       "availability": [
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -5996,7 +5996,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi",
         "mercredi"
       ]
@@ -6018,7 +6018,7 @@
         }
       ],
       "availability": [
-        "samedi",
+        "SAMEDI",
         "lundi"
       ]
     },
@@ -6040,7 +6040,7 @@
       ],
       "availability": [
         "mardi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -6064,8 +6064,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ]
     },
     {
@@ -6085,8 +6085,8 @@
         }
       ],
       "availability": [
-        "dimanche",
-        "jeudi",
+        "DIMANCHE",
+        "JEUDI",
         "mercredi",
         "lundi"
       ]
@@ -6110,7 +6110,7 @@
       "availability": [
         "mercredi",
         "lundi",
-        "dimanche",
+        "DIMANCHE",
         "mardi"
       ]
     },
@@ -6131,7 +6131,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mardi"
       ]
     },
@@ -6153,9 +6153,9 @@
       ],
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -6180,9 +6180,9 @@
       ],
       "availability": [
         "mardi",
-        "dimanche",
+        "DIMANCHE",
         "lundi",
-        "jeudi"
+        "JEUDI"
       ]
     },
     {
@@ -6207,9 +6207,9 @@
       ],
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "mardi",
-        "samedi"
+        "SAMEDI"
       ]
     },
     {
@@ -6233,8 +6233,8 @@
         }
       ],
       "availability": [
-        "jeudi",
-        "samedi"
+        "JEUDI",
+        "SAMEDI"
       ]
     },
     {
@@ -6259,8 +6259,8 @@
       ],
       "availability": [
         "lundi",
-        "dimanche",
-        "jeudi"
+        "DIMANCHE",
+        "JEUDI"
       ]
     },
     {
@@ -6280,7 +6280,7 @@
         }
       ],
       "availability": [
-        "jeudi",
+        "JEUDI",
         "mercredi",
         "mardi"
       ]
@@ -6303,7 +6303,7 @@
       ],
       "availability": [
         "mercredi",
-        "dimanche",
+        "DIMANCHE",
         "lundi"
       ]
     },
@@ -6330,8 +6330,8 @@
       "availability": [
         "mardi",
         "lundi",
-        "samedi",
-        "dimanche"
+        "SAMEDI",
+        "DIMANCHE"
       ]
     }
   ],

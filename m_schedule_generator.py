@@ -67,26 +67,44 @@ class ScheduleGenerator:
                any(self.teacher_commitments[teacher][day][slot - 1] for teacher in self.teacher_commitments)
 
 
-
-    def is_slot_conflict(self, section_name, day, slot, session_type, group):
+    #if returns TRUE , session will be aborted
+    def is_slot_conflict(self, section_name, day, slot, session_type, group, teacher):
         for session in self.schedule:
-            if session['day'] == day and session['slot'] == slot and session['section'] == section_name:
-                if session['session_type'] == 'Lecture':
+            #check if same day and slot
+            if session['day'] == day and session['slot'] == slot:
+
+                #prevent same teacher in multiple sessions simultaneously
+                if session['teacher'] == teacher:
                     return True
+
+                #existing section-level lecture conflict
+                if session['section'] == section_name and session['session_type'] == 'Lecture':
+                    return True
+
+                #prevent same group in multiple sessions
                 if session['group'] == group:
                     return True
+
+                #prevent lecture conflicting with TD/TP
                 if session['session_type'] in ['TD', 'TP'] and session_type == 'Lecture':
                     return True
+        
         return False
 
 
 
+
     def assign_session(self, section_name, group, module, session_type, day):
+
+        teacher = self.find_suitable_teacher(module['name'], day)
+        if not teacher:
+            teacher = "No teacher available"
+
         available_slots = [slot for slot, time in self.time_slots.items() if self.is_slot_available(slot, day)]
         if not available_slots:
             return
 
-        available_slots = [slot for slot in available_slots if not self.is_slot_conflict(section_name, day, slot, session_type, group)]
+        available_slots = [slot for slot in available_slots if not self.is_slot_conflict(section_name, day, slot, session_type, group, teacher)]
         if not available_slots:
             return
 
@@ -97,10 +115,7 @@ class ScheduleGenerator:
         if not room_name:
             return
 
-        teacher = self.find_suitable_teacher(module['name'], day)
-        if not teacher:
-            teacher = "No teacher available"
-
+        
         self.schedule.append({
             'day': day,
             'room': room_name,
